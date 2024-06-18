@@ -589,7 +589,7 @@ Spooky, I get that you were really worried... but is this really necessary?!
 [10:10:55:10][10:11:03:16]SPOOKY
 (REACTIONS) Oh yes! I don't want you to go away ever again! Especially you!
 
-[10:10:57:12][10:10:58:23]GRUNT
+[10:10:57:12][00:00:00]GRUNT
 (REACTIONS)
 
 [10:10:57:12][10:10:58:23]JANE

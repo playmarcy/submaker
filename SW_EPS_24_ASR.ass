@@ -12,254 +12,254 @@ Style: Main_Flashback_Top,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.02,0:00:05.02,Default,ALSAH,0,0,0,,(low pitch) Victory will be…
-Dialogue: 0,0:00:07.21,0:00:07.21,Default,ENNAH,0,0,0,,(low pitch)… ours!
-Dialogue: 0,0:00:40.00,0:00:40.00,Default,VOICEOVER,0,0,0,,Shortly before…
-Dialogue: 0,0:00:43.00,0:00:43.00,Default,DR. HAM,0,0,0,,(sly) Ladiiieees and gentlemeeeen…Welcome to Pyramid, Queen Cleopatra’s glamorous night club!
+Dialogue: 0,0:00:05.02,0:00:07.21,Default,ALSAH,0,0,0,,(low pitch) Victory will be…
+Dialogue: 0,0:00:07.21,0:00:40.00,Default,ENNAH,0,0,0,,(low pitch)… ours!
+Dialogue: 0,0:00:40.00,0:00:43.00,Default,VOICEOVER,0,0,0,,Shortly before…
+Dialogue: 0,0:00:43.00,0:00:44.03,Default,DR. HAM,0,0,0,,(sly) Ladiiieees and gentlemeeeen…Welcome to Pyramid, Queen Cleopatra’s glamorous night club!
 Dialogue: 0,0:00:44.03,0:00:44.03,Default,JANE,0,0,0,,(excited squeak)
-Dialogue: 0,0:00:44.03,0:00:44.03,Default,GRUNT,0,0,0,,(excited grunt)
+Dialogue: 0,0:00:44.03,0:00:48.21,Default,GRUNT,0,0,0,,(excited grunt)
 Dialogue: 0,0:00:48.21,0:00:48.21,Default,SAILOR 2,0,0,0,,(cheers)
 Dialogue: 0,0:00:48.21,0:00:48.21,Default,CORNELIA TEACUP,0,0,0,,(cheers)
 Dialogue: 0,0:00:48.21,0:00:48.21,Default,SAILOR 1,0,0,0,,(cheers)
 Dialogue: 0,0:00:48.21,0:00:48.21,Default,MAGPIE,0,0,0,,(cheers)
-Dialogue: 0,0:00:48.21,0:00:48.21,Default,WALLA CROWD,0,0,0,,(cheers)
-Dialogue: 0,0:00:49.18,0:00:49.18,Default,CLEOPATRA,0,0,0,,(haughty, to the crowd) Good evening, people of no interest…
-Dialogue: 0,0:00:52.12,0:00:52.12,Default,DR. HAM,0,0,0,,The time has come to draw the (with emphasis) event of the year!
-Dialogue: 0,0:00:56.22,0:00:56.22,Default,SPOOKY,0,0,0,,(nervous) Mud wrestling, come on, mud wrestling!
-Dialogue: 0,0:00:57.16,0:00:57.16,Default,GASTON,0,0,0,,(confused grunt)
-Dialogue: 0,0:00:58.18,0:00:58.18,Default,JANE,0,0,0,,(obvious) Spooky, there’s only one piece of paper.
-Dialogue: 0,0:01:00.17,0:01:00.17,Default,CHERRY,0,0,0,,(obvious) Where it always says “couples’ dance contest”.
-Dialogue: 0,0:01:03.10,0:01:03.10,Default,GRUNT,0,0,0,,(obvious) Every year.
-Dialogue: 0,0:01:04.01,0:01:04.01,Default,SPOOKY,0,0,0,,(sly) But who knows, maybe this year…
-Dialogue: 0,0:01:08.12,0:01:08.12,Default,CLEOPATRA,0,0,0,,Couples’ dance contest!!
-Dialogue: 0,0:01:10.07,0:01:10.07,Default,WALLA CROWD,0,0,0,,(cheers until 1:14)
-Dialogue: 0,0:01:10.11,0:01:10.11,Default,SAILOR 1,0,0,0,,(cheers until 1:14)
-Dialogue: 0,0:01:11.10,0:01:11.10,Default,SPOOKY,0,0,0,,(screams desperate) Noooooo!!!
-Dialogue: 0,0:01:12.00,0:01:12.00,Default,TINKERBAG,0,0,0,,(reac)
-Dialogue: 0,0:01:12.23,0:01:12.23,Default,CHERRY,0,0,0,,(acts vague but is a little upset) But Spooky… don’t you want to dance with me?
-Dialogue: 0,0:01:14.09,0:01:14.09,Default,SPOOKY,0,0,0,,(sounds fake) Oh no! I really do! It’s just that my style of dance isn’t allowed…
-Dialogue: 0,0:01:17.23,0:01:17.23,Default,CHERRY,0,0,0,,(confused moan)
-Dialogue: 0,0:01:18.15,0:01:18.15,Default,DR. HAM,0,0,0,,(encouraging) Every style of dance is allowed!
-Dialogue: 0,0:01:20.12,0:01:20.12,Default,SPOOKY,0,0,0,,(disappointed) Ah…Well then…(pretending awesoooome)!!!… (chuckles)
-Dialogue: 0,0:01:23.08,0:01:23.08,Default,DR. HAM,0,0,0,,And declaring the winners of the cup will be our own noble Cleopatra! Let the first pair take the floor: Alsah and Ennah, the bickering sisters! (with emphasis) Let the dances begiiiin!!!
+Dialogue: 0,0:00:48.21,0:00:49.18,Default,WALLA CROWD,0,0,0,,(cheers)
+Dialogue: 0,0:00:49.18,0:00:52.12,Default,CLEOPATRA,0,0,0,,(haughty, to the crowd) Good evening, people of no interest…
+Dialogue: 0,0:00:52.12,0:00:56.22,Default,DR. HAM,0,0,0,,The time has come to draw the (with emphasis) event of the year!
+Dialogue: 0,0:00:56.22,0:00:57.16,Default,SPOOKY,0,0,0,,(nervous) Mud wrestling, come on, mud wrestling!
+Dialogue: 0,0:00:57.16,0:00:58.18,Default,GASTON,0,0,0,,(confused grunt)
+Dialogue: 0,0:00:58.18,0:01:00.17,Default,JANE,0,0,0,,(obvious) Spooky, there’s only one piece of paper.
+Dialogue: 0,0:01:00.17,0:01:03.10,Default,CHERRY,0,0,0,,(obvious) Where it always says “couples’ dance contest”.
+Dialogue: 0,0:01:03.10,0:01:04.01,Default,GRUNT,0,0,0,,(obvious) Every year.
+Dialogue: 0,0:01:04.01,0:01:08.12,Default,SPOOKY,0,0,0,,(sly) But who knows, maybe this year…
+Dialogue: 0,0:01:08.12,0:01:10.07,Default,CLEOPATRA,0,0,0,,Couples’ dance contest!!
+Dialogue: 0,0:01:10.07,0:01:10.11,Default,WALLA CROWD,0,0,0,,(cheers until 1:14)
+Dialogue: 0,0:01:10.11,0:01:11.10,Default,SAILOR 1,0,0,0,,(cheers until 1:14)
+Dialogue: 0,0:01:11.10,0:01:12.00,Default,SPOOKY,0,0,0,,(screams desperate) Noooooo!!!
+Dialogue: 0,0:01:12.00,0:01:12.23,Default,TINKERBAG,0,0,0,,(reac)
+Dialogue: 0,0:01:12.23,0:01:14.09,Default,CHERRY,0,0,0,,(acts vague but is a little upset) But Spooky… don’t you want to dance with me?
+Dialogue: 0,0:01:14.09,0:01:17.23,Default,SPOOKY,0,0,0,,(sounds fake) Oh no! I really do! It’s just that my style of dance isn’t allowed…
+Dialogue: 0,0:01:17.23,0:01:18.15,Default,CHERRY,0,0,0,,(confused moan)
+Dialogue: 0,0:01:18.15,0:01:20.12,Default,DR. HAM,0,0,0,,(encouraging) Every style of dance is allowed!
+Dialogue: 0,0:01:20.12,0:01:23.08,Default,SPOOKY,0,0,0,,(disappointed) Ah…Well then…(pretending awesoooome)!!!… (chuckles)
+Dialogue: 0,0:01:23.08,0:01:32.00,Default,DR. HAM,0,0,0,,And declaring the winners of the cup will be our own noble Cleopatra! Let the first pair take the floor: Alsah and Ennah, the bickering sisters! (with emphasis) Let the dances begiiiin!!!
 Dialogue: 0,0:01:32.00,0:01:32.00,Default,ALSAH,0,0,0,,(soft moan)
-Dialogue: 0,0:01:32.00,0:01:32.00,Default,ENNAH,0,0,0,,(soft moan)
-Dialogue: 0,0:01:38.13,0:01:38.13,Default,SPOOKY,0,0,0,,(heartfelt) (excited) A slow dance… my favorite style!
-Dialogue: 0,0:01:41.16,0:01:41.16,Default,ALSAH,0,0,0,,(singing) Yay yay yay!
-Dialogue: 0,0:01:41.18,0:01:41.18,Default,ENNAH,0,0,0,,(singing) Ye ye ye!
-Dialogue: 0,0:01:47.13,0:01:47.13,Default,SPOOKY,0,0,0,,(heartfelt) (excited) A silly and catchy pop tune! My favorite style!
-Dialogue: 0,0:01:50.17,0:01:50.17,Default,CHERRY,0,0,0,,(tender) A night of dancing isn’t so bad after all, huh?
-Dialogue: 0,0:01:53.18,0:01:53.18,Default,SPOOKY,0,0,0,,(embarassed) Yeeeeah… Well… it’s not mud wrestling, but… I’m sorry!
-Dialogue: 0,0:02:03.13,0:02:03.13,Default,ALSAH,0,0,0,,(screams) Ahhh (REACTIONS)
-Dialogue: 0,0:02:05.16,0:02:05.16,Default,ENNAH,0,0,0,,(shouting) Alsah!
-Dialogue: 0,0:02:07.14,0:02:07.14,Default,CHERRY,0,0,0,,(sincere) Oh, poor things!! They were doing so well!
-Dialogue: 0,0:02:10.01,0:02:10.01,Default,CLEOPATRA,0,0,0,,(disinterested) Disqualified! Let’s move on already, I don’t have all night…
-Dialogue: 0,0:02:13.01,0:02:13.01,Default,SPOOKY,0,0,0,,(struggles super hard with the cup) No! They were fantastic! They’ve won! Contest is oveeeer!!! (scolding) And now for some mud wrestling!
-Dialogue: 0,0:02:17.18,0:02:17.18,Default,CHERRY,0,0,0,,Spooky, put the cup away. It’s a dance competition, and it’s not over.
-Dialogue: 0,0:02:20.23,0:02:20.23,Default,SPOOKY,0,0,0,,(disappointed grunt) (effort, scared, about to fall moan) (painful grunt) (inhales) (surprised) Heeeey! Look! Their magnificent performance was sabotaged!
-Dialogue: 0,0:02:28.22,0:02:28.22,Default,CHERRY,0,0,0,,Or maybe they just slipped…
-Dialogue: 0,0:02:30.13,0:02:30.13,Default,SPOOKY,0,0,0,,(shouting) (in panic) Sabotage!
-Dialogue: 0,0:02:31.08,0:02:31.08,Default,CHERRY,0,0,0,,…on a banana peel!
-Dialogue: 0,0:02:32.10,0:02:32.10,Default,SPOOKY,0,0,0,,(proud) SA-BO-TAGE! (desperate) Look at how devastated those sweet little girls are!
-Dialogue: 0,0:02:36.15,0:02:36.15,Default,ENNAH,0,0,0,,(frustrated) (scolding) It’s your fault! Watch where you put your feet!
-Dialogue: 0,0:02:38.12,0:02:38.12,Default,ALSAH,0,0,0,,(frustrated) (angry) No, you’re the one who pushed me!
-Dialogue: 0,0:02:40.03,0:02:40.03,Default,SPOOKY,0,0,0,,(thinking) I have to find the culprit… (shouting) this is a case for Spooky Wolf! Assistaaants! (realizes) Oh, you’re already here…
-Dialogue: 0,0:02:45.22,0:02:45.22,Default,GRUNT,0,0,0,,(annoyed) Could you get off the dance floor? We’re next…
-Dialogue: 0,0:02:47.21,0:02:47.21,Default,DR. HAM,0,0,0,,(amplified by the microphone) Next couple: Grunt and Jane!
-Dialogue: 0,0:02:49.16,0:02:49.16,Default,SPOOKY,0,0,0,,(to Grunt and Jane) But Alsah and Ennah’s dance was sabotaged! (intense) There’s a mystery to solve!
-Dialogue: 0,0:02:53.14,0:02:53.14,Default,JANE,0,0,0,,The only mystery here is: how long since this place was last  tidied up!
-Dialogue: 0,0:02:56.20,0:02:56.20,Default,GRUNT,0,0,0,,(annoyed) And now boss, if you don’t mind…(grunts) (grunts x 6) (exhales) (relieved) Ah… finally!
-Dialogue: 0,0:03:01.08,0:03:01.08,Default,SPOOKY WOLF,0,0,0,,(Giggles)
-Dialogue: 0,0:03:02.03,0:03:02.03,Default,CROWD,0,0,0,,(impressed) Oooh!
-Dialogue: 0,0:03:04.19,0:03:04.19,Default,SPOOKY,0,0,0,,Well you guys follow me anyway, I know who did it!
-Dialogue: 0,0:03:06.14,0:03:06.14,Default,CHERRY,0,0,0,,But Spooky… it was just an unfortunate accident! (gasps) / (in a low voice) (confused) But why are we dressed up like cows, Spooky?
-Dialogue: 0,0:03:09.21,0:03:09.21,Default,GRUNT,0,0,0,,(grunts) / (proud grunt) (grunts) (grunts) (chuckles) (grunts)
-Dialogue: 0,0:03:10.06,0:03:10.06,Default,JANE,0,0,0,,(proud moan) / (moans) (moans)
-Dialogue: 0,0:03:16.20,0:03:16.20,Default,SPOOKY (COW),0,0,0,,(in a low voice, sly) Nothing goes more unnoticed than a cow in a night club! It’s the per-fect disguise!
-Dialogue: 0,0:03:22.03,0:03:22.03,Default,TRILLIONAIRE,0,0,0,,Hi, Spooky.
-Dialogue: 0,0:03:23.03,0:03:23.03,Default,SPOOKY,0,0,0,,(in panic) Cover blown, plan B! (defiant) Here we are dear Mr. Trillionaire, as rich as he is cheap!
-Dialogue: 0,0:03:28.14,0:03:28.14,Default,TRILLIONAIRE,0,0,0,,(shushes) (REAC)
-Dialogue: 0,0:03:28.18,0:03:28.18,Default,SPOOKE,0,0,0,,(confused) Huh? (confused grunt) / (confused grunt) / (confused grunt) (confused grunt) / (dissaproving grunt)
-Dialogue: 0,0:03:32.22,0:03:32.22,Default,TRILLIONAIRE,0,0,0,,(confused grunt x7) / (confused grunt) / (dissaproving grunt)
-Dialogue: 0,0:03:40.12,0:03:40.12,Default,SPOOKY,0,0,0,,(with emphasis) Confess! (desperate) You ruined those poor little girls’ dance! (scolding) Just so your daughter, the super spoiled Princess Prom, could win!
-Dialogue: 0,0:03:46.18,0:03:46.18,Default,TRILLIONAIRE,0,0,0,,(shouting) (angry) Hey! My daughter isn’t spoiled! (REAC)
-Dialogue: 0,0:03:48.09,0:03:48.09,Default,PRINCESS PROM,0,0,0,,Daddy, I want a gold bar, but one that you can eat.
-Dialogue: 0,0:03:51.03,0:03:51.03,Default,TRILLIONAIRE,0,0,0,,Here you are, sweetie. (chuckles) And anyway, it couldn’t have been me, I bet everything on someone else after I saw them training…
-Dialogue: 0,0:03:54.01,0:03:54.01,Default,SPOOKY,0,0,0,,(confused grunt)
-Dialogue: 0,0:03:58.06,0:03:58.06,Default,POLENA,0,0,0,,(moaning singing) (effort grunt)
-Dialogue: 0,0:04:02.06,0:04:02.06,Default,SNOTTY,0,0,0,,(shouting) Garden gnomes don’t…(drowning) blbl…swim…(sinking and blowing bubbles) Blblblbl!
-Dialogue: 0,0:04:05.16,0:04:05.16,Default,TRILLIONAIRE,0,0,0,,(dreamy) That gnome, Snotty… He has a unique style!
-Dialogue: 0,0:04:08.09,0:04:08.09,Default,SPOOKY,0,0,0,,Yeah, you really did’t need to sabotage anything, Trillytrilly, those two have victory in their grasp!
-Dialogue: 0,0:04:13.06,0:04:13.06,Default,VOICEOVER,0,0,0,,Not guilty!
-Dialogue: 0,0:04:14.17,0:04:14.17,Default,TRILLIONAIRE,0,0,0,,(angry) Hey, who ate my appetizers?
-Dialogue: 0,0:04:16.22,0:04:16.22,Default,PIGRAW,0,0,0,,(grunts)
-Dialogue: 0,0:04:18.03,0:04:18.03,Default,SPOOKY,0,0,0,,(confused) But if Pig-raw is there… then who are you???
-Dialogue: 0,0:04:23.00,0:04:23.00,Default,JANE,0,0,0,,(moaning singing)
-Dialogue: 0,0:04:23.07,0:04:23.07,Default,GRUNT,0,0,0,,(effort grunts)
-Dialogue: 0,0:04:24.17,0:04:24.17,Default,CHERRY,0,0,0,,Come on, let’s think about our performance!  Are you still convinced that it was a sabotage?
-Dialogue: 0,0:04:26.22,0:04:26.22,Default,SPOOKY,0,0,0,,(uncomfortable moans)
-Dialogue: 0,0:04:31.21,0:04:31.21,Default,SPOOKY,0,0,0,,Yes, I’m completely sure!
-Dialogue: 0,0:04:33.05,0:04:33.05,Default,CHERRY,0,0,0,,(worried) It’s not that you’re looking for an excuse not to dance with me… are you?
-Dialogue: 0,0:04:38.02,0:04:38.02,Default,SPOOKY,0,0,0,,(very fast) (defensive) Whaaaat?! Absolutely not but honestly no no no no no, also because then you and me… it would be great… (very embarrassed) buuuut…
-Dialogue: 0,0:04:44.02,0:04:44.02,Default,CHERRY,0,0,0,,(worried)…But???
-Dialogue: 0,0:04:44.14,0:04:44.14,Default,SPOOKY,0,0,0,,To be honest (stutters) IIIII… I don’t know how to say it… (shouting) Nooo!
-Dialogue: 0,0:04:50.13,0:04:50.13,Default,GRUNT,0,0,0,,(grunts) (grunts) (effort grunt) / (painful grunt)
-Dialogue: 0,0:04:52.09,0:04:52.09,Default,JANE,0,0,0,,(screams) / (whimpers)
-Dialogue: 0,0:04:53.10,0:04:53.10,Default,SPOOKY,0,0,0,,(screams) / (whimpers)
-Dialogue: 0,0:04:54.00,0:04:54.00,Default,SAILOR 1,0,0,0,,(gasp).. (cheer)
+Dialogue: 0,0:01:32.00,0:01:38.13,Default,ENNAH,0,0,0,,(soft moan)
+Dialogue: 0,0:01:38.13,0:01:41.16,Default,SPOOKY,0,0,0,,(heartfelt) (excited) A slow dance… my favorite style!
+Dialogue: 0,0:01:41.16,0:01:41.18,Default,ALSAH,0,0,0,,(singing) Yay yay yay!
+Dialogue: 0,0:01:41.18,0:01:47.13,Default,ENNAH,0,0,0,,(singing) Ye ye ye!
+Dialogue: 0,0:01:47.13,0:01:50.17,Default,SPOOKY,0,0,0,,(heartfelt) (excited) A silly and catchy pop tune! My favorite style!
+Dialogue: 0,0:01:50.17,0:01:53.18,Default,CHERRY,0,0,0,,(tender) A night of dancing isn’t so bad after all, huh?
+Dialogue: 0,0:01:53.18,0:02:03.13,Default,SPOOKY,0,0,0,,(embarassed) Yeeeeah… Well… it’s not mud wrestling, but… I’m sorry!
+Dialogue: 0,0:02:03.13,0:02:05.16,Default,ALSAH,0,0,0,,(screams) Ahhh (REACTIONS)
+Dialogue: 0,0:02:05.16,0:02:07.14,Default,ENNAH,0,0,0,,(shouting) Alsah!
+Dialogue: 0,0:02:07.14,0:02:10.01,Default,CHERRY,0,0,0,,(sincere) Oh, poor things!! They were doing so well!
+Dialogue: 0,0:02:10.01,0:02:13.01,Default,CLEOPATRA,0,0,0,,(disinterested) Disqualified! Let’s move on already, I don’t have all night…
+Dialogue: 0,0:02:13.01,0:02:17.18,Default,SPOOKY,0,0,0,,(struggles super hard with the cup) No! They were fantastic! They’ve won! Contest is oveeeer!!! (scolding) And now for some mud wrestling!
+Dialogue: 0,0:02:17.18,0:02:20.23,Default,CHERRY,0,0,0,,Spooky, put the cup away. It’s a dance competition, and it’s not over.
+Dialogue: 0,0:02:20.23,0:02:28.22,Default,SPOOKY,0,0,0,,(disappointed grunt) (effort, scared, about to fall moan) (painful grunt) (inhales) (surprised) Heeeey! Look! Their magnificent performance was sabotaged!
+Dialogue: 0,0:02:28.22,0:02:30.13,Default,CHERRY,0,0,0,,Or maybe they just slipped…
+Dialogue: 0,0:02:30.13,0:02:31.08,Default,SPOOKY,0,0,0,,(shouting) (in panic) Sabotage!
+Dialogue: 0,0:02:31.08,0:02:32.10,Default,CHERRY,0,0,0,,…on a banana peel!
+Dialogue: 0,0:02:32.10,0:02:36.15,Default,SPOOKY,0,0,0,,(proud) SA-BO-TAGE! (desperate) Look at how devastated those sweet little girls are!
+Dialogue: 0,0:02:36.15,0:02:38.12,Default,ENNAH,0,0,0,,(frustrated) (scolding) It’s your fault! Watch where you put your feet!
+Dialogue: 0,0:02:38.12,0:02:40.03,Default,ALSAH,0,0,0,,(frustrated) (angry) No, you’re the one who pushed me!
+Dialogue: 0,0:02:40.03,0:02:45.22,Default,SPOOKY,0,0,0,,(thinking) I have to find the culprit… (shouting) this is a case for Spooky Wolf! Assistaaants! (realizes) Oh, you’re already here…
+Dialogue: 0,0:02:45.22,0:02:47.21,Default,GRUNT,0,0,0,,(annoyed) Could you get off the dance floor? We’re next…
+Dialogue: 0,0:02:47.21,0:02:49.16,Default,DR. HAM,0,0,0,,(amplified by the microphone) Next couple: Grunt and Jane!
+Dialogue: 0,0:02:49.16,0:02:53.14,Default,SPOOKY,0,0,0,,(to Grunt and Jane) But Alsah and Ennah’s dance was sabotaged! (intense) There’s a mystery to solve!
+Dialogue: 0,0:02:53.14,0:02:56.20,Default,JANE,0,0,0,,The only mystery here is: how long since this place was last  tidied up!
+Dialogue: 0,0:02:56.20,0:03:01.08,Default,GRUNT,0,0,0,,(annoyed) And now boss, if you don’t mind…(grunts) (grunts x 6) (exhales) (relieved) Ah… finally!
+Dialogue: 0,0:03:01.08,0:03:02.03,Default,SPOOKY WOLF,0,0,0,,(Giggles)
+Dialogue: 0,0:03:02.03,0:03:04.19,Default,CROWD,0,0,0,,(impressed) Oooh!
+Dialogue: 0,0:03:04.19,0:03:06.14,Default,SPOOKY,0,0,0,,Well you guys follow me anyway, I know who did it!
+Dialogue: 0,0:03:06.14,0:03:09.21,Default,CHERRY,0,0,0,,But Spooky… it was just an unfortunate accident! (gasps) / (in a low voice) (confused) But why are we dressed up like cows, Spooky?
+Dialogue: 0,0:03:09.21,0:03:10.06,Default,GRUNT,0,0,0,,(grunts) / (proud grunt) (grunts) (grunts) (chuckles) (grunts)
+Dialogue: 0,0:03:10.06,0:03:16.20,Default,JANE,0,0,0,,(proud moan) / (moans) (moans)
+Dialogue: 0,0:03:16.20,0:03:22.03,Default,SPOOKY (COW),0,0,0,,(in a low voice, sly) Nothing goes more unnoticed than a cow in a night club! It’s the per-fect disguise!
+Dialogue: 0,0:03:22.03,0:03:23.03,Default,TRILLIONAIRE,0,0,0,,Hi, Spooky.
+Dialogue: 0,0:03:23.03,0:03:28.14,Default,SPOOKY,0,0,0,,(in panic) Cover blown, plan B! (defiant) Here we are dear Mr. Trillionaire, as rich as he is cheap!
+Dialogue: 0,0:03:28.14,0:03:28.18,Default,TRILLIONAIRE,0,0,0,,(shushes) (REAC)
+Dialogue: 0,0:03:28.18,0:03:32.22,Default,SPOOKE,0,0,0,,(confused) Huh? (confused grunt) / (confused grunt) / (confused grunt) (confused grunt) / (dissaproving grunt)
+Dialogue: 0,0:03:32.22,0:03:40.12,Default,TRILLIONAIRE,0,0,0,,(confused grunt x7) / (confused grunt) / (dissaproving grunt)
+Dialogue: 0,0:03:40.12,0:03:46.18,Default,SPOOKY,0,0,0,,(with emphasis) Confess! (desperate) You ruined those poor little girls’ dance! (scolding) Just so your daughter, the super spoiled Princess Prom, could win!
+Dialogue: 0,0:03:46.18,0:03:48.09,Default,TRILLIONAIRE,0,0,0,,(shouting) (angry) Hey! My daughter isn’t spoiled! (REAC)
+Dialogue: 0,0:03:48.09,0:03:51.03,Default,PRINCESS PROM,0,0,0,,Daddy, I want a gold bar, but one that you can eat.
+Dialogue: 0,0:03:51.03,0:03:54.01,Default,TRILLIONAIRE,0,0,0,,Here you are, sweetie. (chuckles) And anyway, it couldn’t have been me, I bet everything on someone else after I saw them training…
+Dialogue: 0,0:03:54.01,0:03:58.06,Default,SPOOKY,0,0,0,,(confused grunt)
+Dialogue: 0,0:03:58.06,0:04:02.06,Default,POLENA,0,0,0,,(moaning singing) (effort grunt)
+Dialogue: 0,0:04:02.06,0:04:05.16,Default,SNOTTY,0,0,0,,(shouting) Garden gnomes don’t…(drowning) blbl…swim…(sinking and blowing bubbles) Blblblbl!
+Dialogue: 0,0:04:05.16,0:04:08.09,Default,TRILLIONAIRE,0,0,0,,(dreamy) That gnome, Snotty… He has a unique style!
+Dialogue: 0,0:04:08.09,0:04:13.06,Default,SPOOKY,0,0,0,,Yeah, you really did’t need to sabotage anything, Trillytrilly, those two have victory in their grasp!
+Dialogue: 0,0:04:13.06,0:04:14.17,Default,VOICEOVER,0,0,0,,Not guilty!
+Dialogue: 0,0:04:14.17,0:04:16.22,Default,TRILLIONAIRE,0,0,0,,(angry) Hey, who ate my appetizers?
+Dialogue: 0,0:04:16.22,0:04:18.03,Default,PIGRAW,0,0,0,,(grunts)
+Dialogue: 0,0:04:18.03,0:04:23.00,Default,SPOOKY,0,0,0,,(confused) But if Pig-raw is there… then who are you???
+Dialogue: 0,0:04:23.00,0:04:23.07,Default,JANE,0,0,0,,(moaning singing)
+Dialogue: 0,0:04:23.07,0:04:24.17,Default,GRUNT,0,0,0,,(effort grunts)
+Dialogue: 0,0:04:24.17,0:04:26.22,Default,CHERRY,0,0,0,,Come on, let’s think about our performance!  Are you still convinced that it was a sabotage?
+Dialogue: 0,0:04:26.22,0:04:31.21,Default,SPOOKY,0,0,0,,(uncomfortable moans)
+Dialogue: 0,0:04:31.21,0:04:33.05,Default,SPOOKY,0,0,0,,Yes, I’m completely sure!
+Dialogue: 0,0:04:33.05,0:04:38.02,Default,CHERRY,0,0,0,,(worried) It’s not that you’re looking for an excuse not to dance with me… are you?
+Dialogue: 0,0:04:38.02,0:04:44.02,Default,SPOOKY,0,0,0,,(very fast) (defensive) Whaaaat?! Absolutely not but honestly no no no no no, also because then you and me… it would be great… (very embarrassed) buuuut…
+Dialogue: 0,0:04:44.02,0:04:44.14,Default,CHERRY,0,0,0,,(worried)…But???
+Dialogue: 0,0:04:44.14,0:04:50.13,Default,SPOOKY,0,0,0,,To be honest (stutters) IIIII… I don’t know how to say it… (shouting) Nooo!
+Dialogue: 0,0:04:50.13,0:04:52.09,Default,GRUNT,0,0,0,,(grunts) (grunts) (effort grunt) / (painful grunt)
+Dialogue: 0,0:04:52.09,0:04:53.10,Default,JANE,0,0,0,,(screams) / (whimpers)
+Dialogue: 0,0:04:53.10,0:04:54.00,Default,SPOOKY,0,0,0,,(screams) / (whimpers)
+Dialogue: 0,0:04:54.00,0:04:54.12,Default,SAILOR 1,0,0,0,,(gasp).. (cheer)
 Dialogue: 0,0:04:54.12,0:04:54.12,Default,CLEOPATRA,0,0,0,,(gasp)
 Dialogue: 0,0:04:54.12,0:04:54.12,Default,CUPID,0,0,0,,(gasp)
 Dialogue: 0,0:04:54.12,0:04:54.12,Default,CORNELIA TEACUP,0,0,0,,(OFF) (gasp).. (cheer)
 Dialogue: 0,0:04:54.12,0:04:54.12,Default,MAGPIE,0,0,0,,(off) (gasps)
 Dialogue: 0,0:04:54.12,0:04:54.12,Default,MUMMIES,0,0,0,,(closed mouth gasp)
-Dialogue: 0,0:04:54.12,0:04:54.12,Default,WALLA CROWD,0,0,0,,(gasps)
-Dialogue: 0,0:04:57.00,0:04:57.00,Default,GRUNT,0,0,0,,(effort grunt) (effort grunt) (chuckles)
-Dialogue: 0,0:04:58.00,0:04:58.00,Default,MAGPIE,0,0,0,,(cheers)
-Dialogue: 0,0:04:59.00,0:04:59.00,Default,WALLA CROWD,0,0,0,,(cheers)
-Dialogue: 0,0:04:59.16,0:04:59.16,Default,CLEOPATRA,0,0,0,,(thumbs down) (annoyed) Disqualified!!! And you can pay me back for the chandelier!!!
-Dialogue: 0,0:05:02.06,0:05:02.06,Default,CHERRY,0,0,0,,(surprised) Spooky! You were right! Someone wants to sabotage the dance contest!
-Dialogue: 0,0:05:03.05,0:05:03.05,Default,SPOOKY,0,0,0,,(confused) Huh? / (confused moan)
-Dialogue: 0,0:05:05.16,0:05:05.16,Default,GRUNT,0,0,0,,(grunts) Sabotageee! (grunts)
-Dialogue: 0,0:05:07.08,0:05:07.08,Default,SPOOKY,0,0,0,,(condescending, in a soft voice) Grunt… no one was sabotaged… (emphatic, pointing at them) except Alsah and Ennah! Never fear girls, I’ll solve the case! NOTHING will distract me from… (confused) Huh?
-Dialogue: 0,0:05:15.23,0:05:15.23,Default,DR. HAM,0,0,0,,(announces) Next couple! Princess Prom and Amazing, the very haaaandsome unicorn!
+Dialogue: 0,0:04:54.12,0:04:57.00,Default,WALLA CROWD,0,0,0,,(gasps)
+Dialogue: 0,0:04:57.00,0:04:58.00,Default,GRUNT,0,0,0,,(effort grunt) (effort grunt) (chuckles)
+Dialogue: 0,0:04:58.00,0:04:59.00,Default,MAGPIE,0,0,0,,(cheers)
+Dialogue: 0,0:04:59.00,0:04:59.16,Default,WALLA CROWD,0,0,0,,(cheers)
+Dialogue: 0,0:04:59.16,0:05:02.06,Default,CLEOPATRA,0,0,0,,(thumbs down) (annoyed) Disqualified!!! And you can pay me back for the chandelier!!!
+Dialogue: 0,0:05:02.06,0:05:03.05,Default,CHERRY,0,0,0,,(surprised) Spooky! You were right! Someone wants to sabotage the dance contest!
+Dialogue: 0,0:05:03.05,0:05:05.16,Default,SPOOKY,0,0,0,,(confused) Huh? / (confused moan)
+Dialogue: 0,0:05:05.16,0:05:07.08,Default,GRUNT,0,0,0,,(grunts) Sabotageee! (grunts)
+Dialogue: 0,0:05:07.08,0:05:15.23,Default,SPOOKY,0,0,0,,(condescending, in a soft voice) Grunt… no one was sabotaged… (emphatic, pointing at them) except Alsah and Ennah! Never fear girls, I’ll solve the case! NOTHING will distract me from… (confused) Huh?
+Dialogue: 0,0:05:15.23,0:05:20.11,Default,DR. HAM,0,0,0,,(announces) Next couple! Princess Prom and Amazing, the very haaaandsome unicorn!
 Dialogue: 0,0:05:20.11,0:05:20.11,Default,SPOOKY,0,0,0,,(excited) Oooh, I want to see them so much!
-Dialogue: 0,0:05:20.11,0:05:20.11,Default,CUPID,0,0,0,,(excited moan)
+Dialogue: 0,0:05:20.11,0:05:23.03,Default,CUPID,0,0,0,,(excited moan)
 Dialogue: 0,0:05:23.03,0:05:23.03,Default,PRINCESS PROM,0,0,0,,(in a low voice, very mean) Either we win or I’ll have Daddy’s superhero send you to Pluto! // (chuckles)
-Dialogue: 0,0:05:23.03,0:05:23.03,Default,AMAZING,0,0,0,,(nervous chuckle) (nervous moan) (grunts) / (chuckles)
-Dialogue: 0,0:05:37.22,0:05:37.22,Default,AMAZING,0,0,0,,(confused moan) (shouting) Help! It itches! It itches! (nervous moan)
-Dialogue: 0,0:05:39.11,0:05:39.11,Default,PRINCESS PROM,0,0,0,,(shouting) Ahhh
-Dialogue: 0,0:05:40.12,0:05:40.12,Default,SPOOKY,0,0,0,,(grunts) (gasps)
+Dialogue: 0,0:05:23.03,0:05:37.22,Default,AMAZING,0,0,0,,(nervous chuckle) (nervous moan) (grunts) / (chuckles)
+Dialogue: 0,0:05:37.22,0:05:39.11,Default,AMAZING,0,0,0,,(confused moan) (shouting) Help! It itches! It itches! (nervous moan)
+Dialogue: 0,0:05:39.11,0:05:40.12,Default,PRINCESS PROM,0,0,0,,(shouting) Ahhh
+Dialogue: 0,0:05:40.12,0:05:40.20,Default,SPOOKY,0,0,0,,(grunts) (gasps)
 Dialogue: 0,0:05:40.20,0:05:40.20,Default,CHERRY,0,0,0,,(grunts) (gasps)
-Dialogue: 0,0:05:40.20,0:05:40.20,Default,GRUNT,0,0,0,,(grunts) (gasps)
-Dialogue: 0,0:05:41.19,0:05:41.19,Default,CLEOPATRA,0,0,0,,Disqualified!
-Dialogue: 0,0:05:42.15,0:05:42.15,Default,AMAZING,0,0,0,,(scratching) (nervous) Forgive me Prom, but think I have fleas! (whimpers)
-Dialogue: 0,0:05:42.23,0:05:42.23,Default,PRINCESS PROM,0,0,0,,(annoyed grunt)
-Dialogue: 0,0:05:44.15,0:05:44.15,Default,PRINCESS PROM,0,0,0,,(scolding) (shouting) You ruined everything! I hate you! (whimpers)
-Dialogue: 0,0:05:46.10,0:05:46.10,Default,GRUNT,0,0,0,,(serious) More sabotage…
-Dialogue: 0,0:05:47.20,0:05:47.20,Default,SPOOKY,0,0,0,,Sabotage? Naaaah! You should have a shower every once in a while my friend, there’s a bit of a smell…
-Dialogue: 0,0:05:52.10,0:05:52.10,Default,AMAZING,0,0,0,,(defensive) But that’s coming from the cow!
-Dialogue: 0,0:05:54.18,0:05:54.18,Default,PRINCESS PROM,0,0,0,,Super-fluss, superfluous handyman superhero, you know what you have to do!
-Dialogue: 0,0:05:58.16,0:05:58.16,Default,SUPER-FLUSS,0,0,0,,Ready for Pluto?
-Dialogue: 0,0:05:59.16,0:05:59.16,Default,AMAZING,0,0,0,,(nervous) But… (screams)
-Dialogue: 0,0:06:02.07,0:06:02.07,Default,SPOOKY,0,0,0,,(grunts) (excited) Oooh, it’s a fleeeaaa circus!!!
-Dialogue: 0,0:06:04.23,0:06:04.23,Default,JANE,0,0,0,,Precisely! A circus… of fleas! It’s an obvious sabota…
-Dialogue: 0,0:06:08.00,0:06:08.00,Default,SPOOKY,0,0,0,,(finishes the word) Super entertainment created by Cleopatra! Like that!
-Dialogue: 0,0:06:10.16,0:06:10.16,Default,SNOTTY,0,0,0,,Get me out of here! Us garden gnomes can’t swi… blblblbl
-Dialogue: 0,0:06:14.06,0:06:14.06,Default,JANE,0,0,0,,(annoyed) I was going to say “Sabotage”!
-Dialogue: 0,0:06:14.22,0:06:14.22,Default,SPOOKY,0,0,0,,(excited) Ooooh! Tightrope-walking fleas! (considers) But I don’t have time for fun right now! I have to solve the case of the banana peel! (surprised) (excited) Nooo, there are clown fleas too!! (clears throat) Errrm, I meant: we have to find Alsah and Ennah’s saboteur!
-Dialogue: 0,0:06:26.00,0:06:26.00,Default,JANE,0,0,0,,(shouts after Spooky) (scolding) Don’t you get it?! Someone is sabotaging everyone!
-Dialogue: 0,0:06:28.14,0:06:28.14,Default,SPOOKY (O.S.),0,0,0,,(jovial, wise guy) No no! It was  only the banana!
-Dialogue: 0,0:06:29.17,0:06:29.17,Default,GRUNT,0,0,0,,(grunts)
-Dialogue: 0,0:06:30.09,0:06:30.09,Default,JANE,0,0,0,,(sighs, then to Grunt, pragmatic) Let’s get to work solving the (with emphasis) REAL case!
-Dialogue: 0,0:06:32.15,0:06:32.15,Default,GRUNT,0,0,0,,Affirmative, Jane!
-Dialogue: 0,0:06:33.14,0:06:33.14,Default,SPOOKY,0,0,0,,(quick) Zero clues, zero clues, zero clues, (excited) oooh a potato chip! (eats it) (with mouth full) Crispy-crunchy! Zero clues, zero clues… Hey Cherry! But you’ve become a giant! If that’s the case, we can’t dance together anymore, too baaaad…
-Dialogue: 0,0:06:44.05,0:06:44.05,Default,CHERRY,0,0,0,,(determined) Spooky! Just be honest with me! You don’t want to dance with me! I won’t be offended!
-Dialogue: 0,0:06:47.17,0:06:47.17,Default,CHERRY’S FACE,0,0,0,,Well, I mean…
-Dialogue: 0,0:06:48.12,0:06:48.12,Default,CHERRY,0,0,0,,It’s no big deal!
-Dialogue: 0,0:06:49.10,0:06:49.10,Default,CHERRY’S FACE,0,0,0,,Whatever you say…
-Dialogue: 0,0:06:49.23,0:06:49.23,Default,CHERRY,0,0,0,,(annoyed) (scolding) Can’t you drop it?!
-Dialogue: 0,0:06:51.04,0:06:51.04,Default,SPOOKY,0,0,0,,(confused moan) Oooh, I saw a super-clue right over there, byeeee!!! Bye to you too Cherry’s conscience! (chuckles)
-Dialogue: 0,0:06:52.12,0:06:52.12,Default,CHERRY,0,0,0,,(confused moan) / (relieved sight)
-Dialogue: 0,0:06:54.11,0:06:54.11,Default,CHERRY’S FACE,0,0,0,,(relieved sight)
-Dialogue: 0,0:06:58.09,0:06:58.09,Default,DR. HAM,0,0,0,,And nooooow….. the last couple in the contest… (grandiose) the loopy lupine Spooky and the red-as-a-rose Cherry!
-Dialogue: 0,0:07:03.10,0:07:03.10,Default,CHERRY,0,0,0,,(calling out) Spooky, it’s our turn. (confused) Spooky?! Are you pretending to be a mummy so you don’t have to dance?
-Dialogue: 0,0:07:08.17,0:07:08.17,Default,SPOOKY,0,0,0,,(in a small voice, moving his mouth a little) No.
-Dialogue: 0,0:07:09.04,0:07:09.04,Default,CHERRY,0,0,0,,(calling out) You moved. And you spoke.
-Dialogue: 0,0:07:10.13,0:07:10.13,Default,SPOOKY,0,0,0,,(in a small voice) No I didn’t.
-Dialogue: 0,0:07:11.07,0:07:11.07,Default,CHERRY,0,0,0,,(scolding) You did it again.
-Dialogue: 0,0:07:12.01,0:07:12.01,Default,SPOOKY,0,0,0,,(in a small voice) It wasn’t me.
-Dialogue: 0,0:07:12.14,0:07:12.14,Default,CHERRY,0,0,0,,(frustrated grunt) (louder) Look, a flying pizza!!! / (frustrated grunt)
-Dialogue: 0,0:07:14.05,0:07:14.05,Default,SPOOKY,0,0,0,,(confused) Mmm.? (excited) Where, where?!!!! (nervous chuckle) / All right… I have to tell you something… I really want to dance with you Cherry… also because I…
-Dialogue: 0,0:07:22.08,0:07:22.08,Default,SPOOKY’S FACE,0,0,0,,(scolding) No! / (with emphasis) Tell her, tell her! / The second! (scolding) You can’t say the first!
-Dialogue: 0,0:07:22.23,0:07:22.23,Default,SPOOKY,0,0,0,,But you see, the fact is that… (confused) What?! The first thing or the second?!
-Dialogue: 0,0:07:28.13,0:07:28.13,Default,SPOOKY,0,0,0,,(intense) Cherry…(doing wrestler poses) Mud wrestling! (corrects himself) I mean… (yelled, desperate) I don’t know how to dance! (pants)
-Dialogue: 0,0:07:29.04,0:07:29.04,Default,CHERRY,0,0,0,,(intense) Yes…?
-Dialogue: 0,0:07:33.02,0:07:33.02,Default,SANTA CLAUS,0,0,0,,(jovial) That’s why I gave him dance lessons! (chuckles) Ho-ho-ho!
-Dialogue: 0,0:07:36.06,0:07:36.06,Default,CHERRY,0,0,0,,(happily surprised) Santa Claus?! (chuckles) I didn’t know you could dance!
+Dialogue: 0,0:05:40.20,0:05:41.19,Default,GRUNT,0,0,0,,(grunts) (gasps)
+Dialogue: 0,0:05:41.19,0:05:42.15,Default,CLEOPATRA,0,0,0,,Disqualified!
+Dialogue: 0,0:05:42.15,0:05:42.23,Default,AMAZING,0,0,0,,(scratching) (nervous) Forgive me Prom, but think I have fleas! (whimpers)
+Dialogue: 0,0:05:42.23,0:05:44.15,Default,PRINCESS PROM,0,0,0,,(annoyed grunt)
+Dialogue: 0,0:05:44.15,0:05:46.10,Default,PRINCESS PROM,0,0,0,,(scolding) (shouting) You ruined everything! I hate you! (whimpers)
+Dialogue: 0,0:05:46.10,0:05:47.20,Default,GRUNT,0,0,0,,(serious) More sabotage…
+Dialogue: 0,0:05:47.20,0:05:52.10,Default,SPOOKY,0,0,0,,Sabotage? Naaaah! You should have a shower every once in a while my friend, there’s a bit of a smell…
+Dialogue: 0,0:05:52.10,0:05:54.18,Default,AMAZING,0,0,0,,(defensive) But that’s coming from the cow!
+Dialogue: 0,0:05:54.18,0:05:58.16,Default,PRINCESS PROM,0,0,0,,Super-fluss, superfluous handyman superhero, you know what you have to do!
+Dialogue: 0,0:05:58.16,0:05:59.16,Default,SUPER-FLUSS,0,0,0,,Ready for Pluto?
+Dialogue: 0,0:05:59.16,0:06:02.07,Default,AMAZING,0,0,0,,(nervous) But… (screams)
+Dialogue: 0,0:06:02.07,0:06:04.23,Default,SPOOKY,0,0,0,,(grunts) (excited) Oooh, it’s a fleeeaaa circus!!!
+Dialogue: 0,0:06:04.23,0:06:08.00,Default,JANE,0,0,0,,Precisely! A circus… of fleas! It’s an obvious sabota…
+Dialogue: 0,0:06:08.00,0:06:10.16,Default,SPOOKY,0,0,0,,(finishes the word) Super entertainment created by Cleopatra! Like that!
+Dialogue: 0,0:06:10.16,0:06:14.06,Default,SNOTTY,0,0,0,,Get me out of here! Us garden gnomes can’t swi… blblblbl
+Dialogue: 0,0:06:14.06,0:06:14.22,Default,JANE,0,0,0,,(annoyed) I was going to say “Sabotage”!
+Dialogue: 0,0:06:14.22,0:06:26.00,Default,SPOOKY,0,0,0,,(excited) Ooooh! Tightrope-walking fleas! (considers) But I don’t have time for fun right now! I have to solve the case of the banana peel! (surprised) (excited) Nooo, there are clown fleas too!! (clears throat) Errrm, I meant: we have to find Alsah and Ennah’s saboteur!
+Dialogue: 0,0:06:26.00,0:06:28.14,Default,JANE,0,0,0,,(shouts after Spooky) (scolding) Don’t you get it?! Someone is sabotaging everyone!
+Dialogue: 0,0:06:28.14,0:06:29.17,Default,SPOOKY (O.S.),0,0,0,,(jovial, wise guy) No no! It was  only the banana!
+Dialogue: 0,0:06:29.17,0:06:30.09,Default,GRUNT,0,0,0,,(grunts)
+Dialogue: 0,0:06:30.09,0:06:32.15,Default,JANE,0,0,0,,(sighs, then to Grunt, pragmatic) Let’s get to work solving the (with emphasis) REAL case!
+Dialogue: 0,0:06:32.15,0:06:33.14,Default,GRUNT,0,0,0,,Affirmative, Jane!
+Dialogue: 0,0:06:33.14,0:06:44.05,Default,SPOOKY,0,0,0,,(quick) Zero clues, zero clues, zero clues, (excited) oooh a potato chip! (eats it) (with mouth full) Crispy-crunchy! Zero clues, zero clues… Hey Cherry! But you’ve become a giant! If that’s the case, we can’t dance together anymore, too baaaad…
+Dialogue: 0,0:06:44.05,0:06:47.17,Default,CHERRY,0,0,0,,(determined) Spooky! Just be honest with me! You don’t want to dance with me! I won’t be offended!
+Dialogue: 0,0:06:47.17,0:06:48.12,Default,CHERRY’S FACE,0,0,0,,Well, I mean…
+Dialogue: 0,0:06:48.12,0:06:49.10,Default,CHERRY,0,0,0,,It’s no big deal!
+Dialogue: 0,0:06:49.10,0:06:49.23,Default,CHERRY’S FACE,0,0,0,,Whatever you say…
+Dialogue: 0,0:06:49.23,0:06:51.04,Default,CHERRY,0,0,0,,(annoyed) (scolding) Can’t you drop it?!
+Dialogue: 0,0:06:51.04,0:06:52.12,Default,SPOOKY,0,0,0,,(confused moan) Oooh, I saw a super-clue right over there, byeeee!!! Bye to you too Cherry’s conscience! (chuckles)
+Dialogue: 0,0:06:52.12,0:06:54.11,Default,CHERRY,0,0,0,,(confused moan) / (relieved sight)
+Dialogue: 0,0:06:54.11,0:06:58.09,Default,CHERRY’S FACE,0,0,0,,(relieved sight)
+Dialogue: 0,0:06:58.09,0:07:03.10,Default,DR. HAM,0,0,0,,And nooooow….. the last couple in the contest… (grandiose) the loopy lupine Spooky and the red-as-a-rose Cherry!
+Dialogue: 0,0:07:03.10,0:07:08.17,Default,CHERRY,0,0,0,,(calling out) Spooky, it’s our turn. (confused) Spooky?! Are you pretending to be a mummy so you don’t have to dance?
+Dialogue: 0,0:07:08.17,0:07:09.04,Default,SPOOKY,0,0,0,,(in a small voice, moving his mouth a little) No.
+Dialogue: 0,0:07:09.04,0:07:10.13,Default,CHERRY,0,0,0,,(calling out) You moved. And you spoke.
+Dialogue: 0,0:07:10.13,0:07:11.07,Default,SPOOKY,0,0,0,,(in a small voice) No I didn’t.
+Dialogue: 0,0:07:11.07,0:07:12.01,Default,CHERRY,0,0,0,,(scolding) You did it again.
+Dialogue: 0,0:07:12.01,0:07:12.14,Default,SPOOKY,0,0,0,,(in a small voice) It wasn’t me.
+Dialogue: 0,0:07:12.14,0:07:14.05,Default,CHERRY,0,0,0,,(frustrated grunt) (louder) Look, a flying pizza!!! / (frustrated grunt)
+Dialogue: 0,0:07:14.05,0:07:22.08,Default,SPOOKY,0,0,0,,(confused) Mmm.? (excited) Where, where?!!!! (nervous chuckle) / All right… I have to tell you something… I really want to dance with you Cherry… also because I…
+Dialogue: 0,0:07:22.08,0:07:22.23,Default,SPOOKY’S FACE,0,0,0,,(scolding) No! / (with emphasis) Tell her, tell her! / The second! (scolding) You can’t say the first!
+Dialogue: 0,0:07:22.23,0:07:28.13,Default,SPOOKY,0,0,0,,But you see, the fact is that… (confused) What?! The first thing or the second?!
+Dialogue: 0,0:07:28.13,0:07:29.04,Default,SPOOKY,0,0,0,,(intense) Cherry…(doing wrestler poses) Mud wrestling! (corrects himself) I mean… (yelled, desperate) I don’t know how to dance! (pants)
+Dialogue: 0,0:07:29.04,0:07:33.02,Default,CHERRY,0,0,0,,(intense) Yes…?
+Dialogue: 0,0:07:33.02,0:07:36.06,Default,SANTA CLAUS,0,0,0,,(jovial) That’s why I gave him dance lessons! (chuckles) Ho-ho-ho!
+Dialogue: 0,0:07:36.06,0:07:38.15,Default,CHERRY,0,0,0,,(happily surprised) Santa Claus?! (chuckles) I didn’t know you could dance!
 Dialogue: 0,0:07:38.15,0:07:38.15,Default,SANTA CLAUS,0,0,0,,(effort grunt) (effort grunt) (effort grunt)
-Dialogue: 0,0:07:38.15,0:07:38.15,Default,SPOOKY,0,0,0,,(effort grunt) (effort grunt) (effort grunt)
-Dialogue: 0,0:07:41.21,0:07:41.21,Default,SANTA CLAUS,0,0,0,,(thinking) Mmm, (disappointed) actually, I don’t know how to dance…
-Dialogue: 0,0:07:44.06,0:07:44.06,Default,DR. HAM,0,0,0,,The couple must take the floor or they’ll be disqualified!
-Dialogue: 0,0:07:45.12,0:07:45.12,Default,SPOOKY,0,0,0,,(grunts) (panic squeak) / (excited moan)
-Dialogue: 0,0:07:49.01,0:07:49.01,Default,CHERRY,0,0,0,,(encouraging) Follow my steps and everything will be fine. Do you trust me? / (frustrated grunt) / (surprised moan)
-Dialogue: 0,0:07:51.20,0:07:51.20,Default,SPOOKY,0,0,0,,OK… (very quick) Actually no, I’m leaving, I’m changing planet, byeeee! / (disappointed) OK…
+Dialogue: 0,0:07:38.15,0:07:41.21,Default,SPOOKY,0,0,0,,(effort grunt) (effort grunt) (effort grunt)
+Dialogue: 0,0:07:41.21,0:07:44.06,Default,SANTA CLAUS,0,0,0,,(thinking) Mmm, (disappointed) actually, I don’t know how to dance…
+Dialogue: 0,0:07:44.06,0:07:45.12,Default,DR. HAM,0,0,0,,The couple must take the floor or they’ll be disqualified!
+Dialogue: 0,0:07:45.12,0:07:49.01,Default,SPOOKY,0,0,0,,(grunts) (panic squeak) / (excited moan)
+Dialogue: 0,0:07:49.01,0:07:51.20,Default,CHERRY,0,0,0,,(encouraging) Follow my steps and everything will be fine. Do you trust me? / (frustrated grunt) / (surprised moan)
+Dialogue: 0,0:07:51.20,0:08:01.14,Default,SPOOKY,0,0,0,,OK… (very quick) Actually no, I’m leaving, I’m changing planet, byeeee! / (disappointed) OK…
 Dialogue: 0,0:08:01.14,0:08:01.14,Default,CHERRY,0,0,0,,(soft voice) Guys, keep an eye out! The saboteur is still at large!
 Dialogue: 0,0:08:01.14,0:08:01.14,Default,JANE,0,0,0,,(confused) Huh? (grunts) (affirming grunts)
-Dialogue: 0,0:08:01.14,0:08:01.14,Default,GRUNT,0,0,0,,(confused) Huh? (grunts) (affirming grunts)
-Dialogue: 0,0:08:05.03,0:08:05.03,Default,SPOOKY,0,0,0,,(cuts in, wise guy) Naaah… all a coincidence! Only Alsah and Ennah were sabota…(whimpers)  (low voice) I’m scared… (talks following the rhythm) I-can’t-dance! (very surprised) Hey! I can dance!
-Dialogue: 0,0:08:15.13,0:08:15.13,Default,SPOOKY’S FACE,0,0,0,,Of course you can dance! It’s the power of lo…
-Dialogue: 0,0:08:18.04,0:08:18.04,Default,SMALLER SPOOKY’S FACE,0,0,0,,(shushes) Shhh! You can’t say it!
-Dialogue: 0,0:08:19.11,0:08:19.11,Default,SPOOKY,0,0,0,,(excited) (surprised) Cool! My conscience has a conscience!
-Dialogue: 0,0:08:21.14,0:08:21.14,Default,CHERRY,0,0,0,,(happy) Well done Spooky!
-Dialogue: 0,0:08:29.11,0:08:29.11,Default,GRUNT,0,0,0,,(soft voice) See anything?
-Dialogue: 0,0:08:30.06,0:08:30.06,Default,JANE,0,0,0,,(soft voice) Nothing at all! But they’re surely about to strike!
-Dialogue: 0,0:08:36.16,0:08:36.16,Default,JANE,0,0,0,,(looks up, shocked) But it’s… a…
-Dialogue: 0,0:08:38.00,0:08:38.00,Default,GRUNT,0,0,0,,(appalled) A… a…
-Dialogue: 0,0:08:39.05,0:08:39.05,Default,BIGBRO,0,0,0,,Here comes the little boat, and here’s the… (surprised) (frustrated) Hey, where’s my…
+Dialogue: 0,0:08:01.14,0:08:05.03,Default,GRUNT,0,0,0,,(confused) Huh? (grunts) (affirming grunts)
+Dialogue: 0,0:08:05.03,0:08:15.13,Default,SPOOKY,0,0,0,,(cuts in, wise guy) Naaah… all a coincidence! Only Alsah and Ennah were sabota…(whimpers)  (low voice) I’m scared… (talks following the rhythm) I-can’t-dance! (very surprised) Hey! I can dance!
+Dialogue: 0,0:08:15.13,0:08:18.04,Default,SPOOKY’S FACE,0,0,0,,Of course you can dance! It’s the power of lo…
+Dialogue: 0,0:08:18.04,0:08:19.11,Default,SMALLER SPOOKY’S FACE,0,0,0,,(shushes) Shhh! You can’t say it!
+Dialogue: 0,0:08:19.11,0:08:21.14,Default,SPOOKY,0,0,0,,(excited) (surprised) Cool! My conscience has a conscience!
+Dialogue: 0,0:08:21.14,0:08:29.11,Default,CHERRY,0,0,0,,(happy) Well done Spooky!
+Dialogue: 0,0:08:29.11,0:08:30.06,Default,GRUNT,0,0,0,,(soft voice) See anything?
+Dialogue: 0,0:08:30.06,0:08:36.16,Default,JANE,0,0,0,,(soft voice) Nothing at all! But they’re surely about to strike!
+Dialogue: 0,0:08:36.16,0:08:38.00,Default,JANE,0,0,0,,(looks up, shocked) But it’s… a…
+Dialogue: 0,0:08:38.00,0:08:39.05,Default,GRUNT,0,0,0,,(appalled) A… a…
+Dialogue: 0,0:08:39.05,0:08:44.18,Default,BIGBRO,0,0,0,,Here comes the little boat, and here’s the… (surprised) (frustrated) Hey, where’s my…
 Dialogue: 0,0:08:44.18,0:08:44.18,Default,JANE,0,0,0,,(with emphasis) (progressively increasing tone) Rub-ber duck-ie!
-Dialogue: 0,0:08:44.18,0:08:44.18,Default,GRUNT,0,0,0,,(with emphasis) (progressively increasing tone) Rub-ber duck-ie!
-Dialogue: 0,0:08:47.22,0:08:47.22,Default,SPOOKY,0,0,0,,(whimpers)
-Dialogue: 0,0:08:49.02,0:08:49.02,Default,CHERRY,0,0,0,,(encouraging) Come on Spooky! Don’t give up now! We’re almost there!
-Dialogue: 0,0:08:52.10,0:08:52.10,Default,SPOOKY,0,0,0,,First the investigation… then the dance… I’m exhausted! I need another energy banana!
-Dialogue: 0,0:08:56.18,0:08:56.18,Default,CHERRY,0,0,0,,(confused) Another?
-Dialogue: 0,0:08:57.13,0:08:57.13,Default,SPOOKY,0,0,0,,Yeah, sure! / I already ate a banana earlier! During the performance of…(gulps) (exhales) (chuckles) / (realizes) (in panic) Heeeey! But then I…!
-Dialogue: 0,0:08:58.15,0:08:58.15,Default,SPOOKY’S FACE,0,0,0,,(scolding) Don’t say it don’t say it!
-Dialogue: 0,0:09:11.12,0:09:11.12,Default,CHERRY,0,0,0,,(confused) (surprised) Spooky! What’s happening to you?!
-Dialogue: 0,0:09:13.04,0:09:13.04,Default,SPOOKY,0,0,0,,(whimpers)
+Dialogue: 0,0:08:44.18,0:08:47.22,Default,GRUNT,0,0,0,,(with emphasis) (progressively increasing tone) Rub-ber duck-ie!
+Dialogue: 0,0:08:47.22,0:08:49.02,Default,SPOOKY,0,0,0,,(whimpers)
+Dialogue: 0,0:08:49.02,0:08:52.10,Default,CHERRY,0,0,0,,(encouraging) Come on Spooky! Don’t give up now! We’re almost there!
+Dialogue: 0,0:08:52.10,0:08:56.18,Default,SPOOKY,0,0,0,,First the investigation… then the dance… I’m exhausted! I need another energy banana!
+Dialogue: 0,0:08:56.18,0:08:57.13,Default,CHERRY,0,0,0,,(confused) Another?
+Dialogue: 0,0:08:57.13,0:08:58.15,Default,SPOOKY,0,0,0,,Yeah, sure! / I already ate a banana earlier! During the performance of…(gulps) (exhales) (chuckles) / (realizes) (in panic) Heeeey! But then I…!
+Dialogue: 0,0:08:58.15,0:09:11.12,Default,SPOOKY’S FACE,0,0,0,,(scolding) Don’t say it don’t say it!
+Dialogue: 0,0:09:11.12,0:09:13.04,Default,CHERRY,0,0,0,,(confused) (surprised) Spooky! What’s happening to you?!
+Dialogue: 0,0:09:13.04,0:09:15.06,Default,SPOOKY,0,0,0,,(whimpers)
 Dialogue: 0,0:09:15.06,0:09:15.06,Default,TRIXX,0,0,0,,(chuckles excited)
-Dialogue: 0,0:09:15.06,0:09:15.06,Default,CAPTAIN SCOUNDREL,0,0,0,,Huh? (chuckles excited)
-Dialogue: 0,0:09:16.02,0:09:16.02,Default,SPOOKY,0,0,0,,(whimpers)
-Dialogue: 0,0:09:17.00,0:09:17.00,Default,CHERRY,0,0,0,,(nervous chuckle)
-Dialogue: 0,0:09:19.18,0:09:19.18,Default,JANE,0,0,0,,(shouting) (calling out) Spooky!
-Dialogue: 0,0:09:20.09,0:09:20.09,Default,GRUNT,0,0,0,,(shouting) (calling out) Cherry! Ha!
+Dialogue: 0,0:09:15.06,0:09:16.02,Default,CAPTAIN SCOUNDREL,0,0,0,,Huh? (chuckles excited)
+Dialogue: 0,0:09:16.02,0:09:17.00,Default,SPOOKY,0,0,0,,(whimpers)
+Dialogue: 0,0:09:17.00,0:09:19.18,Default,CHERRY,0,0,0,,(nervous chuckle)
+Dialogue: 0,0:09:19.18,0:09:20.09,Default,JANE,0,0,0,,(shouting) (calling out) Spooky!
+Dialogue: 0,0:09:20.09,0:09:21.10,Default,GRUNT,0,0,0,,(shouting) (calling out) Cherry! Ha!
 Dialogue: 0,0:09:21.10,0:09:21.10,Default,SPOOKY,0,0,0,,(scared scream)
-Dialogue: 0,0:09:21.10,0:09:21.10,Default,CHERRY,0,0,0,,(scared scream)
-Dialogue: 0,0:09:22.19,0:09:22.19,Default,DRAKY,0,0,0,,(scared scream) (painful grunt)
-Dialogue: 0,0:09:23.17,0:09:23.17,Default,CLEOPATRA,0,0,0,,(annoyed) Is anyone going to actually finish in this dance contest?!
-Dialogue: 0,0:09:26.03,0:09:26.03,Default,SPOOKY,0,0,0,,(scared) What a little-giaaant duck! Thanks Grunt! The case is solved! It’s true, someone is sabotaging all the dances, not just Alsah and Ennah’s… And that someone is (in panic) ME!
-Dialogue: 0,0:09:35.00,0:09:35.00,Default,SAILOR 1,0,0,0,,(gasp)
+Dialogue: 0,0:09:21.10,0:09:22.19,Default,CHERRY,0,0,0,,(scared scream)
+Dialogue: 0,0:09:22.19,0:09:23.17,Default,DRAKY,0,0,0,,(scared scream) (painful grunt)
+Dialogue: 0,0:09:23.17,0:09:26.03,Default,CLEOPATRA,0,0,0,,(annoyed) Is anyone going to actually finish in this dance contest?!
+Dialogue: 0,0:09:26.03,0:09:35.00,Default,SPOOKY,0,0,0,,(scared) What a little-giaaant duck! Thanks Grunt! The case is solved! It’s true, someone is sabotaging all the dances, not just Alsah and Ennah’s… And that someone is (in panic) ME!
+Dialogue: 0,0:09:35.00,0:09:35.14,Default,SAILOR 1,0,0,0,,(gasp)
 Dialogue: 0,0:09:35.14,0:09:35.14,Default,CORNELIA TEACUP,0,0,0,,(gasps)
-Dialogue: 0,0:09:35.14,0:09:35.14,Default,WALLA CROWD,0,0,0,,(gasps)
-Dialogue: 0,0:09:36.10,0:09:36.10,Default,SPOOKY,0,0,0,,(melodramatic) I threw the banana peel! I made the chandelier fall! I unleashed the fleas! I…
-Dialogue: 0,0:09:41.23,0:09:41.23,Default,CHERRY,0,0,0,,Spooky, I’m pretty sure you can stop at the banana.
-Dialogue: 0,0:09:44.10,0:09:44.10,Default,SPOOKY,0,0,0,,(thinking) Hmm… you’re right. (tender) It was a silly mistake! (humble) I apologize…but the ones who have to apologize to everyone else… are you!
+Dialogue: 0,0:09:35.14,0:09:36.10,Default,WALLA CROWD,0,0,0,,(gasps)
+Dialogue: 0,0:09:36.10,0:09:41.23,Default,SPOOKY,0,0,0,,(melodramatic) I threw the banana peel! I made the chandelier fall! I unleashed the fleas! I…
+Dialogue: 0,0:09:41.23,0:09:44.10,Default,CHERRY,0,0,0,,Spooky, I’m pretty sure you can stop at the banana.
+Dialogue: 0,0:09:44.10,0:09:50.12,Default,SPOOKY,0,0,0,,(thinking) Hmm… you’re right. (tender) It was a silly mistake! (humble) I apologize…but the ones who have to apologize to everyone else… are you!
 Dialogue: 0,0:09:50.12,0:09:50.12,Default,TRIXX,0,0,0,,(gasps)
-Dialogue: 0,0:09:50.12,0:09:50.12,Default,CAPTAIN SCOUNDREL,0,0,0,,(gasps)
+Dialogue: 0,0:09:50.12,0:09:51.18,Default,CAPTAIN SCOUNDREL,0,0,0,,(gasps)
 Dialogue: 0,0:09:51.18,0:09:51.18,Default,ALSAH,0,0,0,,(gasps) (surprised) Whaaaat?!!! / (gasps) / (gasps) / (annoyed grunt)
-Dialogue: 0,0:09:51.18,0:09:51.18,Default,ENNAH,0,0,0,,(gasps) (surprised) Whaaaat?!!! / (gasps) / (gasps) / (annoyed grunt)
-Dialogue: 0,0:09:52.18,0:09:52.18,Default,SPOOKY,0,0,0,,(convinced) It’s the most classic motive: revenge!
-Dialogue: 0,0:09:55.03,0:09:55.03,Default,GRUNT,0,0,0,,(psyched) Yeeeaaah!!!
-Dialogue: 0,0:09:55.12,0:09:55.12,Default,SPOOKY,0,0,0,,You were sabotaged, so now you’re sabotaging everyone!
+Dialogue: 0,0:09:51.18,0:09:52.18,Default,ENNAH,0,0,0,,(gasps) (surprised) Whaaaat?!!! / (gasps) / (gasps) / (annoyed grunt)
+Dialogue: 0,0:09:52.18,0:09:55.03,Default,SPOOKY,0,0,0,,(convinced) It’s the most classic motive: revenge!
+Dialogue: 0,0:09:55.03,0:09:55.12,Default,GRUNT,0,0,0,,(psyched) Yeeeaaah!!!
+Dialogue: 0,0:09:55.12,0:09:58.10,Default,SPOOKY,0,0,0,,You were sabotaged, so now you’re sabotaging everyone!
 Dialogue: 0,0:09:58.10,0:09:58.10,Default,ALSAH,0,0,0,,(defiant) Prove it, if you can! // (10:04) (gasps)
-Dialogue: 0,0:09:58.10,0:09:58.10,Default,ENNAH,0,0,0,,(evil chuckle) Hm?
-Dialogue: 0,0:09:59.12,0:09:59.12,Default,SPOOKY,0,0,0,,(confident) Eeeaasy! There’s someone here who witnessed absolutely everything! (chuckles) // Did you hear the cow?! It said it was them! Alsah and Ennah!
+Dialogue: 0,0:09:58.10,0:09:59.12,Default,ENNAH,0,0,0,,(evil chuckle) Hm?
+Dialogue: 0,0:09:59.12,0:10:05.19,Default,SPOOKY,0,0,0,,(confident) Eeeaasy! There’s someone here who witnessed absolutely everything! (chuckles) // Did you hear the cow?! It said it was them! Alsah and Ennah!
 Dialogue: 0,0:10:05.19,0:10:05.19,Default,TINKERBAG,0,0,0,,(gasps)
-Dialogue: 0,0:10:05.19,0:10:05.19,Default,CAPTAIN SCOUNDREL,0,0,0,,(gasps)
-Dialogue: 0,0:05:20.19,0:05:20.19,Default,MAGPIE,0,0,0,,Rx
-Dialogue: 0,0:10:05.19,0:10:05.19,Default,GASTON,0,0,0,,(surprised) (incomprehensible, line not on script)
-Dialogue: 0,0:05:26.22,0:05:26.22,Default,SUPER-FLUSS,0,0,0,,Rx
+Dialogue: 0,0:10:05.19,0:05:20.19,Default,CAPTAIN SCOUNDREL,0,0,0,,(gasps)
+Dialogue: 0,0:05:20.19,0:10:05.19,Default,MAGPIE,0,0,0,,Rx
+Dialogue: 0,0:10:05.19,0:05:26.22,Default,GASTON,0,0,0,,(surprised) (incomprehensible, line not on script)
+Dialogue: 0,0:05:26.22,0:10:09.12,Default,SUPER-FLUSS,0,0,0,,Rx
 Dialogue: 0,0:10:09.12,0:10:09.12,Default,ALSAH,0,0,0,,(nervous chuckles)
-Dialogue: 0,0:10:09.12,0:10:09.12,Default,ENNAH,0,0,0,,(nervous chuckles)
-Dialogue: 0,0:10:10.08,0:10:10.08,Default,JANE,0,0,0,,(incredulous) But since when do we all understand cowish?
-Dialogue: 0,0:10:12.03,0:10:12.03,Default,SPOOKY,0,0,0,,(sly) These things always happen in cartoons!
-Dialogue: 0,0:10:14.08,0:10:14.08,Default,SPOOKY,0,0,0,,(chuckles)
-Dialogue: 0,0:10:14.16,0:10:14.16,Default,VOICEOVER,0,0,0,,GUILTY!
-Dialogue: 0,0:10:16.04,0:10:16.04,Default,ALSAH,0,0,0,,Sorry! (then mean to Ennah) It’s my sister’s fault, she’s very competitive… Hm?/ (angry grunts)
-Dialogue: 0,0:10:19.00,0:10:19.00,Default,ENNAH,0,0,0,,(mean to Alsah) (gasp)... me? You’re the one who couldn’t accept that we were eliminated! (angry grunts)
-Dialogue: 0,0:10:21.12,0:10:21.12,Default,DR. HAM,0,0,0,,Plot Twist! I officially declare the contest is totally messed up! We have to start all over again!
-Dialogue: 0,0:10:26.23,0:10:26.23,Default,CLEOPATRA,0,0,0,,(angry) (annoyed) Oh no! That’s enough! Mummies, throw these people out of my nightclub! (surprised) (confused) Hey, what’s…?
-Dialogue: 0,0:10:37.18,0:10:37.18,Default,CUPID,0,0,0,,[10:10:37:22][00:00:00]TRILLIONAIRE
-Dialogue: 0,0:10:37.22,0:10:37.22,Default, TINKERBAG,0,0,0,,Rx
+Dialogue: 0,0:10:09.12,0:10:10.08,Default,ENNAH,0,0,0,,(nervous chuckles)
+Dialogue: 0,0:10:10.08,0:10:12.03,Default,JANE,0,0,0,,(incredulous) But since when do we all understand cowish?
+Dialogue: 0,0:10:12.03,0:10:14.08,Default,SPOOKY,0,0,0,,(sly) These things always happen in cartoons!
+Dialogue: 0,0:10:14.08,0:10:14.16,Default,SPOOKY,0,0,0,,(chuckles)
+Dialogue: 0,0:10:14.16,0:10:16.04,Default,VOICEOVER,0,0,0,,GUILTY!
+Dialogue: 0,0:10:16.04,0:10:19.00,Default,ALSAH,0,0,0,,Sorry! (then mean to Ennah) It’s my sister’s fault, she’s very competitive… Hm?/ (angry grunts)
+Dialogue: 0,0:10:19.00,0:10:21.12,Default,ENNAH,0,0,0,,(mean to Alsah) (gasp)... me? You’re the one who couldn’t accept that we were eliminated! (angry grunts)
+Dialogue: 0,0:10:21.12,0:10:26.23,Default,DR. HAM,0,0,0,,Plot Twist! I officially declare the contest is totally messed up! We have to start all over again!
+Dialogue: 0,0:10:26.23,0:10:37.18,Default,CLEOPATRA,0,0,0,,(angry) (annoyed) Oh no! That’s enough! Mummies, throw these people out of my nightclub! (surprised) (confused) Hey, what’s…?
+Dialogue: 0,0:10:37.18,0:10:37.22,Default,CUPID,0,0,0,,[10:10:37:22][00:00:00]TRILLIONAIRE
+Dialogue: 0,0:10:37.22,0:10:38.19,Default, TINKERBAG,0,0,0,,Rx
 Dialogue: 0,0:10:38.19,0:10:38.19,Default,ALSAH,0,0,0,,(reac) (moved moan)
-Dialogue: 0,0:10:38.19,0:10:38.19,Default,ENNAH,0,0,0,,(reac) (moved moan)
-Dialogue: 0,0:10:43.19,0:10:43.19,Default,CLEOPATRA,0,0,0,,(surprised) Hey wait, don’t throw them out anymore… we have the winners! Bring in the cup!
-Dialogue: 0,0:10:46.23,0:10:46.23,Default,WALLA CROWD,0,0,0,,(cheers until 10:54)
-Dialogue: 0,0:10:47.00,0:10:47.00,Default,SAILOR 1,0,0,0,,(chheer)
-Dialogue: 0,0:10:50.07,0:10:50.07,Default,GRANNY,0,0,0,,(excited grunt) (chuckles)
-Dialogue: 0,0:10:52.00,0:10:52.00,Default,CHERRY,0,0,0,,(emotional) Well, too bad. We didn’t win… But it was still really nice, right? / A perfect dance…
-Dialogue: 0,0:10:55.08,0:10:55.08,Default,SPOOKY,0,0,0,,(blushes slightly) Suuuure! A case solved…(chuckles) (in a crescendo of embarrassment) You know Cherry I… I…
-Dialogue: 0,0:10:59.21,0:10:59.21,Default,SPOOKY’S FACE,0,0,0,,(in panic) No no no don’t say it!
-Dialogue: 0,0:11:01.15,0:11:01.15,Default,CHERRY,0,0,0,,(excited) Yes…?
-Dialogue: 0,0:11:03.07,0:11:03.07,Default,SPOOKY,0,0,0,,(excited) I love the fleeaa circus! Yeeaah! (excited) There are trapeze artist fleas toooo?! (chuckles)
-Dialogue: 0,0:11:08.23,0:11:08.23,Default,SNOTTY,0,0,0,,(very angry) Blblblblblblb!
-Dialogue: 0,0:11:09.23,0:11:09.23,Default,BLANK,0,0,0,,End of Eps.
+Dialogue: 0,0:10:38.19,0:10:43.19,Default,ENNAH,0,0,0,,(reac) (moved moan)
+Dialogue: 0,0:10:43.19,0:10:46.23,Default,CLEOPATRA,0,0,0,,(surprised) Hey wait, don’t throw them out anymore… we have the winners! Bring in the cup!
+Dialogue: 0,0:10:46.23,0:10:47.00,Default,WALLA CROWD,0,0,0,,(cheers until 10:54)
+Dialogue: 0,0:10:47.00,0:10:50.07,Default,SAILOR 1,0,0,0,,(chheer)
+Dialogue: 0,0:10:50.07,0:10:52.00,Default,GRANNY,0,0,0,,(excited grunt) (chuckles)
+Dialogue: 0,0:10:52.00,0:10:55.08,Default,CHERRY,0,0,0,,(emotional) Well, too bad. We didn’t win… But it was still really nice, right? / A perfect dance…
+Dialogue: 0,0:10:55.08,0:10:59.21,Default,SPOOKY,0,0,0,,(blushes slightly) Suuuure! A case solved…(chuckles) (in a crescendo of embarrassment) You know Cherry I… I…
+Dialogue: 0,0:10:59.21,0:11:01.15,Default,SPOOKY’S FACE,0,0,0,,(in panic) No no no don’t say it!
+Dialogue: 0,0:11:01.15,0:11:03.07,Default,CHERRY,0,0,0,,(excited) Yes…?
+Dialogue: 0,0:11:03.07,0:11:08.23,Default,SPOOKY,0,0,0,,(excited) I love the fleeaa circus! Yeeaah! (excited) There are trapeze artist fleas toooo?! (chuckles)
+Dialogue: 0,0:11:08.23,0:11:09.23,Default,SNOTTY,0,0,0,,(very angry) Blblblblblblb!
+Dialogue: 0,0:11:09.23,0:00:00:00,Default,BLANK,0,0,0,,End of Eps.

@@ -23,7 +23,7 @@ Dialogue: 0,0:01:07.04,0:01:07.20,Default,PIG-RAW,0,0,0,,(REACTION)
 Dialogue: 0,0:01:07.17,0:01:12.06,Default,SPOOKY,0,0,0,,Boooo, that didn't sound like a pig at all!  Too bad, you lose everything! Mwahahaha!!!
 Dialogue: 0,0:01:12.16,0:01:17.11,Default,JANE,0,0,0,,Hey! What do you mean? That was an exemplary pig noise! (REACTIONS)
 Dialogue: 0,0:01:16.03,0:01:24.08,Default,SPOOKY,0,0,0,,Oh, come on! To win "The bad guy!" game, you have to be the best at being bad! (REACTIONS)
-Dialogue: 0,0:01:17.18,0:01:17.18,Default,GRUNT,0,0,0,,Rx
+Dialogue: 0,0:01:17.18,0:01:20.17,Default,GRUNT,0,0,0,,Rx
 Dialogue: 0,0:01:20.17,0:01:24.06,Default,GRUNT,0,0,0,,It's called "The Bad Guy"! Not "The sneaky cheater!" and you're cheating boss!
 Dialogue: 0,0:01:24.02,0:01:25.04,Default,CHERRY,0,0,0,,Grunt's right, Spooky!
 Dialogue: 0,0:01:25.08,0:01:26.24,Default,JANE,0,0,0,,Come on, let's all try to be mature!
@@ -209,6 +209,6 @@ Dialogue: 0,0:10:45.05,0:10:51.07,Default,SNOTTY,0,0,0,,I'm not your...! (REACTI
 Dialogue: 0,0:10:47.15,0:10:53.06,Default,SPOOKY,0,0,0,,OK OK, I get it, I can't stay here all day waiting for you to give me a high five! Huh! I'm a busy wolf me!
 Dialogue: 0,0:10:55.02,0:10:58.18,Default,CHERRY,0,0,0,,Spooky, I get that you were really worried... but is this really necessary?!
 Dialogue: 0,0:10:55.10,0:11:03.16,Default,SPOOKY,0,0,0,,(REACTIONS) Oh yes! I don't want you to go away ever again! Especially you!
-Dialogue: 0,0:10:57.12,0:10:58.23,Default,GRUNT,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:57.12,0:10:57.12,Default,GRUNT,0,0,0,,(REACTIONS)
 Dialogue: 0,0:10:57.12,0:10:58.23,Default,JANE,0,0,0,,(REACTIONS)
 Dialogue: 0,0:10:57.12,0:10:58.23,Default,PIG-RAW,0,0,0,,(REACTIONS)

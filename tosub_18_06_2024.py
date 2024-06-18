@@ -22,17 +22,17 @@ with open(f"{file}.txt", "r", encoding="utf-8") as text, open(
 ) as subs:
     subs.write(sub_data)
     text = text.read().replace("\n\n", "\n").split("\n")
+    text = text[::-1]
     subs_array = []  # пустой массив для сабов
     starttime_reserve = None  # зарезервированное время начала
 
-    for numb, string in enumerate(text[::-1]):
+    for numb, string in enumerate(text):
 
         if numb % 2 == 1:
             time = re.findall(r":(\d\d:\d\d:\d\d)]", string)
             starttime = time[0]
             dot = starttime.rfind(":")
             starttime = starttime[:dot] + "." + starttime[dot + 1 :]
-
             try:
                 endtime = time[1]
                 if endtime == "00:00:00":
@@ -40,15 +40,15 @@ with open(f"{file}.txt", "r", encoding="utf-8") as text, open(
                 dot = endtime.rfind(":")
                 endtime = endtime[:dot] + "." + endtime[dot + 1 :]
             except:
-                if starttime_reserve:
-                    endtime = starttime_reserve
-                else:
-                    endtime = starttime
-
+                endtime = "00:00:00"
+                # if starttime_reserve:
+                #     endtime = starttime_reserve
+                # else:
+                #     endtime = starttime
             if endtime == "00:00:00" and starttime_reserve:
                 endtime = starttime_reserve
-            else:
-                endtime = starttime
+            # else:
+            #     endtime = starttime
 
             name = re.findall(r"].*](.+?)$", string)
                 
@@ -62,4 +62,5 @@ with open(f"{file}.txt", "r", encoding="utf-8") as text, open(
 
     for string in subs_array[::-1]:
         subs.write(string)
+
     print("done")

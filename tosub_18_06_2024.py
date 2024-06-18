@@ -15,17 +15,23 @@ Style: Main_Flashback_Top,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n"""
 
-with open("text.txt", "r", encoding="utf-8") as text, open(
-    "subs.ass", "w", encoding="utf-8"
+file = input("Имя файла: ")
+
+with open(f"{file}.txt", "r", encoding="utf-8") as text, open(
+    f"{file}.ass", "w", encoding="utf-8"
 ) as subs:
     subs.write(sub_data)
     text = text.read().replace("\n\n", "\n").split("\n")
-    for numb, string in enumerate(text):
+    for numb, string in enumerate(text):SW_EPS_24_ASR
         if numb % 2 == 0:
             time = re.findall(r":(\d\d:\d\d:\d\d)]", string)
             starttime = time[0]
+            dot = starttime.rfind(":")
+            starttime = starttime[:dot] + "." + starttime[dot + 1 :]
             try:
                 endtime = time[1]
+                dot = endtime.rfind(":")
+                endtime = endtime[:dot] + "." + endtime[dot + 1 :]
             except:
                 endtime = starttime
             name = re.findall(r"].*](.+?)$", string)
@@ -34,6 +40,6 @@ with open("text.txt", "r", encoding="utf-8") as text, open(
             if endtime == "00:00:00":
                 endtime = starttime
             subs.write(
-                f"Dialogue: 0,0:{starttime}.00,0:{endtime}.00,Default,{name[0]},0,0,0,,{text}\n"
+                f"Dialogue: 0,0:{starttime},0:{endtime},Default,{name[0]},0,0,0,,{text}\n"
             )
     print("done")

@@ -47,8 +47,8 @@ with open(f"{file}.txt", "r", encoding="utf-8") as text, open(
                 #     endtime = starttime
             if endtime == "00:00:00" and starttime_reserve:
                 endtime = starttime_reserve
-            # else:
-            #     endtime = starttime
+            else:
+                endtime = starttime
 
             name = re.findall(r"].*](.+?)$", string)
                 

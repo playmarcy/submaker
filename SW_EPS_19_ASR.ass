@@ -1,0 +1,204 @@
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Main,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,2.6,1,2,20,20,25,204
+Style: Main_Top,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,2.6,1,8,10,10,25,204
+Style: Main_Italic,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,2.6,1,2,10,10,25,204
+Style: Main_Top_Italic,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,2.6,1,8,10,10,25,204
+Style: Main_Flashback,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,0,0,0,0,100,100,0,0,1,2.6,1,2,20,20,25,204
+Style: Main_Flashback_Italic,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,0,-1,0,0,100,100,0,0,1,2.6,1,2,20,20,25,204
+Style: SIGNS,Tahoma,22,&H00FFFFFF,&H00000002,&H00000000,&H00000000,-1,0,0,0,113.793,100,0,0,1,1,0,8,40,40,25,0
+Style: Main_Flashback_Top,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,0,0,0,0,100,100,0,0,1,2.6,1,8,10,10,25,204
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.16,0:00:02.16,Default,PRINCESS PROM,0,0,0,,Way too red, way too blue... Velvet is only ever to be worn on odd days of the week. Everyone knows that! Uggghhh!!! I'll never ever find an outfit that I like!
+Dialogue: 0,0:00:11.16,0:00:11.16,Default,MIRROR-MIRROR,0,0,0,,Don't worry Princess Prom, I know exactly what you need...
+Dialogue: 0,0:00:14.23,0:00:14.23,Default,PRINCESS PROM,0,0,0,,But it's...  Marvellouuuuus!!!!
+Dialogue: 0,0:00:17.00,0:00:17.00,Default,MIRROR-MIRROR,0,0,0,,A very striking color indeed!
+Dialogue: 0,0:00:22.00,0:00:22.00,Default,PRINCESS PROM,0,0,0,,(REACTION) Actually... It's rubbish!
+Dialogue: 0,0:00:24.14,0:00:24.14,Default,MIRROR-MIRROR,0,0,0,,Aaaaah!!!!!!!!
+Dialogue: 0,0:00:56.01,0:00:56.01,Default,JIM TALKINGHEAD,0,0,0,,Extraordinary developments: citizens of Fantaville are turning black and white due to some mysterious ray!
+Dialogue: 0,0:01:01.08,0:01:01.08,Default,JILL TALKINGHEAD,0,0,0,,All witnesses agree that they saw someone in the shadows...
+Dialogue: 0,0:01:04.08,0:01:04.08,Default,JIM TALKINGHEAD,0,0,0,,...who seems to have taken the shape of a ca...(REACTION) ah, who cares about that.
+Dialogue: 0,0:01:08.11,0:01:08.11,Default,JILL TALKINGHEAD,0,0,0,,Hey, what happened to y...(REACTION) Indeed.
+Dialogue: 0,0:01:11.10,0:01:11.10,Default,JIM TALKINGHEAD,0,0,0,,Maybe we had a report to do...?
+Dialogue: 0,0:01:13.04,0:01:13.04,Default,JILL TALKINGHEAD,0,0,0,,Dunno...
+Dialogue: 0,0:01:13.15,0:01:13.15,Default,JIM TALKINGHEAD,0,0,0,,Yeeaah... shall we go home now?
+Dialogue: 0,0:01:15.08,0:01:15.08,Default,JILL TALKINGHEAD,0,0,0,,Naaah... that's effort... I'm staying here...
+Dialogue: 0,0:01:17.15,0:01:17.15,Default,JIM TALKINGHEAD,0,0,0,,OK... And now for... whatever, who cares...
+Dialogue: 0,0:01:20.09,0:01:20.09,Default,TRIXX,0,0,0,,Good morning! I'm with Alsah and Ennah, the squabbling sisters, but they aren't fighting like they usually do...
+Dialogue: 0,0:01:25.15,0:01:25.15,Default,ALSAH,0,0,0,,Go ahead! Give me a shove! Come oooon! Don't you want to fiiiight?!!! (REACTION)
+Dialogue: 0,0:01:28.18,0:01:28.18,Default,ENNAH,0,0,0,,No, I don't feel like it...
+Dialogue: 0,0:01:30.06,0:01:30.06,Default,TRIXX,0,0,0,,It's clear that this black and white makes everyone more downbeat and sad! But here's Lucky Darko, the bad luck cat!.. Who do you think is responsible for this?!.. Huh?
+Dialogue: 0,0:01:37.15,0:01:37.15,Default,LUCKY DARKO,0,0,0,,Well I think that... that camera you have is beautiful! I bet it's INDESTRUCTIBLE!
+Dialogue: 0,0:01:43.21,0:01:43.21,Default,LUCKY DARKO,0,0,0,,Well, it could be worse! It could be raining!
+Dialogue: 0,0:01:49.11,0:01:49.11,Default,SPOOKY,0,0,0,,Naaah! This is no mystery! It's obviously some publicity stunt by Fantvèl, the French perfume company...
+Dialogue: 0,0:01:55.07,0:01:55.07,Default,JANE,0,0,0,,Whaaat?!!!!
+Dialogue: 0,0:01:55.07,0:01:55.07,Default,GRUNT,0,0,0,,Huh?
+Dialogue: 0,0:01:56.04,0:01:56.04,Default,FRENCH SPEAKER,0,0,0,,(french accent) Fantvèl... pour unicorn.
+Dialogue: 0,0:01:59.11,0:01:59.11,Default,AMAZING,0,0,0,,But I don't remember doing that ad!
+Dialogue: 0,0:02:00.24,0:02:00.24,Default,CHERRY,0,0,0,,Otherwise we'd remember it!
+Dialogue: 0,0:02:01.19,0:02:01.19,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:02:01.19,0:02:01.19,Default,GRUNT,0,0,0,,(REACTIONS)
+Dialogue: 0,0:02:02.16,0:02:02.16,Default,SPOOKY,0,0,0,,Oh noooo? So then how come you always smell so good?  Like... like food! But let's get back to the real mystery...Will I be able to win the "who can eat the most yellow foods in one day" contest?! (REACTIONS)
+Dialogue: 0,0:02:03.18,0:02:03.18,Default,AMAZING,0,0,0,,(REACTIONS)
+Dialogue: 0,0:02:13.08,0:02:13.08,Default,CHERRY,0,0,0,,Spooky! You're the only one who can solve this black and white mystery! Fantaville needs you! You can't just...(REACTIONS) Aaaah, who cares anyway!
+Dialogue: 0,0:02:21.11,0:02:21.11,Default,SPOOKY,0,0,0,,One moooooment. Am I wrong or you don't look like yourself? Ahaaaa,  I get it: you've started doing perfume ads too!
+Dialogue: 0,0:02:27.22,0:02:27.22,Default,FRENCH SPEAKER,0,0,0,,(french accent) Cherry, pour Cherry...
+Dialogue: 0,0:02:30.14,0:02:30.14,Default,JANE,0,0,0,,Perfumes have nothing to do with it! She's turned gray for real!
+Dialogue: 0,0:02:33.12,0:02:33.12,Default,SPOOKY,0,0,0,,No, no, noooo! Tragedy, calamity, your beautiful colors, your bright shades gone forever! My heart can't bear this sight! Don't do this, cheeeeeese!!! Your beautiful yellooooow!
+Dialogue: 0,0:02:43.09,0:02:43.09,Default,CHERRY,0,0,0,,(REACTION) What a crybaby...
+Dialogue: 0,0:02:46.08,0:02:46.08,Default,SPOOKY,0,0,0,,Oh no, Cherry! You're in black and white too! Don't worry, I'll find out who's doing all this!  This is a CASE FOR SPOOKY WOLF!!! (REACTION)
+Dialogue: 0,0:02:52.15,0:02:52.15,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:02:52.15,0:02:52.15,Default,GRUNT,0,0,0,,(REACTIONS)
+Dialogue: 0,0:02:53.23,0:02:53.23,Default,GRANNY,0,0,0,,Wolves, never trust 'em...  (grunt) Oh! (sighs) but then who cares anyway...
+Dialogue: 0,0:03:00.11,0:03:00.11,Default,JANE,0,0,0,,Hey!.. Did you see that too?.. The ray of light?!.. And a silhouette?!.. Hmm
+Dialogue: 0,0:03:04.08,0:03:04.08,Default,SPOOKY,0,0,0,,I saw much more than that!  I saw thiiis!!!! (REACTION) Yellow mustaaaaaard! With thiff I'm thure to wim a heap of pointf...  Waaaa, it's fuper fpifyyyyy!!! (REACTIONS)
+Dialogue: 0,0:03:14.11,0:03:14.11,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:03:14.11,0:03:14.11,Default,GRUNT,0,0,0,,(REACTIONS)
+Dialogue: 0,0:03:20.08,0:03:20.08,Default,SPOOKY,0,0,0,,A little bit more...
+Dialogue: 0,0:03:23.19,0:03:23.19,Default,SPOOKY,0,0,0,,Another little bit more... a liiitle biiit.  That's perfect!
+Dialogue: 0,0:03:30.09,0:03:30.09,Default,JANE,0,0,0,,I'm telling you, there was someone here who fired the ray... and it looked like a cat!
+Dialogue: 0,0:03:33.24,0:03:33.24,Default,SPOOKY,0,0,0,,Did you say cat?! But cats are all extinct!
+Dialogue: 0,0:03:34.21,0:03:34.21,Default,CHERRY,0,0,0,,No, I didn't.
+Dialogue: 0,0:03:36.24,0:03:36.24,Default,CHERRY,0,0,0,,That's dinosaurs, Spooky.
+Dialogue: 0,0:03:38.05,0:03:38.05,Default,SPOOKY,0,0,0,,Poooor thiiiings! Well... on the case! Cherry, Pig-raw and I will look for cats here!  Jane and Grunt, you'll look for cats over there!
+Dialogue: 0,0:03:44.22,0:03:44.22,Default,CHERRY,0,0,0,,Naaaah, leave me here, I don't wanna goooooo.
+Dialogue: 0,0:03:48.22,0:03:48.22,Default,SPOOKY,0,0,0,,Cats cats cats... where do we find some cats...
+Dialogue: 0,0:03:51.20,0:03:51.20,Default,AMAZING,0,0,0,,See ya later! (REACTION)  Or never agaaaiiin (REACTIONS)
+Dialogue: 0,0:03:55.17,0:03:55.17,Default,CLEOPATRA,0,0,0,,Hmph! You have to find it! I need it now!... excuse me, didn't you see which side my profile was facing? Mooove it!!!
+Dialogue: 0,0:04:03.24,0:04:03.24,Default,CLEOPATRA,0,0,0,,Let's start over.  You have to find it! I need it now! And don't get caught doing it! This is my TERRIBLE UNSPEAKABLE SECRET!!!!
+Dialogue: 0,0:04:11.01,0:04:11.01,Default,SPOOKY,0,0,0,,Ahaaa! We caught you, culprit!
+Dialogue: 0,0:04:13.02,0:04:13.02,Default,CORNELIA,0,0,0,,But I didn't do anything! I'm just an adorable old lady who writes love stories!
+Dialogue: 0,0:04:17.05,0:04:17.05,Default,VOICEOVER,0,0,0,,"Avalanches of love!"
+Dialogue: 0,0:04:18.05,0:04:18.05,Default,SPOOKY,0,0,0,,Not you, Cornelia! Him! He's been turning people into black and white with a ray!
+Dialogue: 0,0:04:21.21,0:04:21.21,Default,HORROR,0,0,0,,(REACTION)
+Dialogue: 0,0:04:22.14,0:04:22.14,Default,CHERRY,0,0,0,,How boring...
+Dialogue: 0,0:04:23.15,0:04:23.15,Default,CORNELIA,0,0,0,,Ohhhh thank goodness! I thought you'd discovered my concrete-cake-in-the-face-thrower!
+Dialogue: 0,0:04:28.16,0:04:28.16,Default,SPOOKY,0,0,0,,Huh?! No no no no no, not at all! Wicked!
+Dialogue: 0,0:04:31.05,0:04:31.05,Default,CUPID,0,0,0,,Mommy! Are you ready to hug me...(REACTIONS)
+Dialogue: 0,0:04:34.10,0:04:34.10,Default,CORNELIA,0,0,0,,But are you sure it was Horror? He was with me all morning playing "Pullthetail"...
+Dialogue: 0,0:04:35.09,0:04:35.09,Default,SPOOKY,0,0,0,,(REACTION)
+Dialogue: 0,0:04:36.11,0:04:36.11,Default,HORROR,0,0,0,,(REACTIONS)
+Dialogue: 0,0:04:39.12,0:04:39.12,Default,CORNELIA,0,0,0,,Pullthetail! Pullthetail!
+Dialogue: 0,0:04:42.11,0:04:42.11,Default,SPOOKY,0,0,0,,(REACTION) Then it wasn't Horror!
+Dialogue: 0,0:04:43.22,0:04:43.22,Default,CHERRY,0,0,0,,Can we get going now? I want to go back to the Diner and do nothing...
+Dialogue: 0,0:04:49.10,0:04:49.10,Default,CORNELIA,0,0,0,,Now that I think about it, I think I saw a cat a little while ago...
+Dialogue: 0,0:04:52.16,0:04:52.16,Default,SPOOKY,0,0,0,,Yeeaaah! There he is!  Perhaps you thought you could give me the slip??!!!  If you give me some yellow food I'll let you escape, I have a contest to win you know...(REACTION)
+Dialogue: 0,0:04:59.19,0:04:59.19,Default,CORNELIA,0,0,0,,No it was ANOTHER cat, who (REACTION) Oooh, who cares about all that.
+Dialogue: 0,0:05:04.23,0:05:04.23,Default,HORROR,0,0,0,,Meeeooow.
+Dialogue: 0,0:05:05.16,0:05:05.16,Default,VOICEOVER,0,0,0,,Not guilty.
+Dialogue: 0,0:05:06.24,0:05:06.24,Default,SPOOKY,0,0,0,,Don't you worry Cherry...
+Dialogue: 0,0:05:08.05,0:05:08.05,Default,CHERRY,0,0,0,,Who's worrying, not me...
+Dialogue: 0,0:05:09.18,0:05:09.18,Default,SPOOKY,0,0,0,,Jane and Grunt are sure to be on the trail of the catty culprit!
+Dialogue: 0,0:05:19.04,0:05:19.04,Default,LUCKY DARKO,0,0,0,,Hey my vampire friend, perfect weather for a little stroll, huh? No sun!
+Dialogue: 0,0:05:20.14,0:05:20.14,Default,DRAKY,0,0,0,,(REACTIONS) Hm? It burns, it burns, it burns!
+Dialogue: 0,0:05:25.14,0:05:25.14,Default,JANE,0,0,0,,We caught you, Lucky Darko! You're behind all of this!
+Dialogue: 0,0:05:26.02,0:05:26.02,Default,LUCKY DARKO,0,0,0,,(REACTION)
+Dialogue: 0,0:05:27.10,0:05:27.10,Default,GRUNT,0,0,0,,(REACTION) Yeeaah! And you did it because... because, uh...  why did he do it?
+Dialogue: 0,0:05:28.11,0:05:28.11,Default,LUCKY DARKO,0,0,0,,Behind all of what? Hm?
+Dialogue: 0,0:05:33.04,0:05:33.04,Default,JANE,0,0,0,,Because then everyone will turn black and white, like you!
+Dialogue: 0,0:05:35.20,0:05:35.20,Default,LUCKY DARKO,0,0,0,,But I'm not in black and white, look! I have yellow eyes, a purple mouth, a red amulet...
+Dialogue: 0,0:05:40.19,0:05:40.19,Default,JANE,0,0,0,,Well, in effect...
+Dialogue: 0,0:05:40.23,0:05:40.23,Default,GRUNT,0,0,0,,(REACTION) He's got color on him.
+Dialogue: 0,0:05:42.24,0:05:42.24,Default,VOICEOVER,0,0,0,,Not guilty!
+Dialogue: 0,0:05:44.11,0:05:44.11,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:05:45.05,0:05:45.05,Default,GRUNT,0,0,0,,And in any case, a green amulet would go better with your purple mouth!
+Dialogue: 0,0:05:52.14,0:05:52.14,Default,JANE,0,0,0,,(REACTION)
+Dialogue: 0,0:05:55.03,0:05:55.03,Default,GRUNT,0,0,0,,(REACTION) Get down! (REACTIONS) Jane, help! (REACTIONS) Come on, Jane, do something...
+Dialogue: 0,0:05:56.14,0:05:56.14,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:06:01.02,0:06:01.02,Default,JANE,0,0,0,,Grunt, I'm going t-...  (REACTION) but actually I'm not bothered.
+Dialogue: 0,0:06:06.05,0:06:06.05,Default,JANE,0,0,0,,Ugh, you're so insistent. (REACTIONS)
+Dialogue: 0,0:06:10.14,0:06:10.14,Default,GRUNT,0,0,0,,(REACTIONS)
+Dialogue: 0,0:06:12.14,0:06:12.14,Default,JANE,0,0,0,,(REACTION)
+Dialogue: 0,0:06:15.06,0:06:15.06,Default,GRUNT,0,0,0,,(REACTIONS) Who was it who wanted to make a pig-flavoured pancake?! Huh?!!! (REACTION) But it doesn't matter...
+Dialogue: 0,0:06:23.00,0:06:23.00,Default,SPOOKY,0,0,0,,(REACTIONS)
+Dialogue: 0,0:06:25.03,0:06:25.03,Default,GRUNT,0,0,0,,They're sabotaging us, where's the fun in that...
+Dialogue: 0,0:06:27.19,0:06:27.19,Default,SPOOKY,0,0,0,,It's a sign that the great Spooky Wolf is close to the solution!
+Dialogue: 0,0:06:30.10,0:06:30.10,Default,JANE,0,0,0,,Wow, big whoop...
+Dialogue: 0,0:06:31.08,0:06:31.08,Default,CHERRY,0,0,0,,When will this agonising day end?
+Dialogue: 0,0:06:33.23,0:06:33.23,Default,SPOOKY,0,0,0,,Hey, look, I found an expired bottle of mayonnaise-that-hasn't-gone-gray-yet! (REACTIONS) Oh no, I've been hit too! And it'sssss  fantastic!!! Now even I can do perfume advertisements!
+Dialogue: 0,0:06:47.22,0:06:47.22,Default,FRENCH SPEAKER,0,0,0,,(french accent) "Lobos"... pour wolf!
+Dialogue: 0,0:06:50.08,0:06:50.08,Default,SPOOKY,0,0,0,,But now let's eat this YELLOW mayonnaise, I have a ranking to climb... uugh, this grayness, though, has made me feel a little bit weak... uugh... (REACTIONS)
+Dialogue: 0,0:07:02.10,0:07:02.10,Default,SPOOKY,0,0,0,,Thanks. (REACTIONS) Cleopatra's mummies! And what is the Egyptian animal par excellence?
+Dialogue: 0,0:07:08.16,0:07:08.16,Default,GRUNT,0,0,0,,Who cares anymore!
+Dialogue: 0,0:07:09.14,0:07:09.14,Default,SPOOKY,0,0,0,,The caaaa.....aaat! Right! The cat! So it has something to do with Cleopatra! (REACTION)
+Dialogue: 0,0:07:10.05,0:07:10.05,Default,JANE,0,0,0,,Boring.
+Dialogue: 0,0:07:11.05,0:07:11.05,Default,CHERRY,0,0,0,,Boring.
+Dialogue: 0,0:07:17.00,0:07:17.00,Default,SPOOKY,0,0,0,,They're running! Come on, let's follow them! (REACTIONS) Hey, where did all my strength go?!
+Dialogue: 0,0:07:22.01,0:07:22.01,Default,JANE,0,0,0,,It doesn't affect your mood, huh...
+Dialogue: 0,0:07:23.11,0:07:23.11,Default,CHERRY,0,0,0,,It just makes him feel very tired.
+Dialogue: 0,0:07:26.06,0:07:26.06,Default,CLEOPATRA,0,0,0,,Well then?! Did you find it?!
+Dialogue: 0,0:07:28.09,0:07:28.09,Default,SPOOKY,0,0,0,,We're the ones who found you, Cleopatra!
+Dialogue: 0,0:07:30.16,0:07:30.16,Default,VOICEOVER,0,0,0,,Guilty!
+Dialogue: 0,0:07:31.24,0:07:31.24,Default,CLEOPATRA,0,0,0,,Who're you calling guilty? It wasn't me! In fact, I'm trying to stop it!
+Dialogue: 0,0:07:35.20,0:07:35.20,Default,SPOOKY,0,0,0,,To stop what?
+Dialogue: 0,0:07:36.15,0:07:36.15,Default,CLEOPATRA,0,0,0,,Not what, who!
+Dialogue: 0,0:07:38.03,0:07:38.03,Default,SPOOKY,0,0,0,,Who?!
+Dialogue: 0,0:07:39.02,0:07:39.02,Default,CLEOPATRA,0,0,0,,The ancient, powerful, Egyptian God of youth,  the mighty Fuzzywhiskers!
+Dialogue: 0,0:07:40.07,0:07:40.07,Default,SPOOKY,0,0,0,,(REACTIONS)
+Dialogue: 0,0:07:44.02,0:07:44.02,Default,CHERRY,0,0,0,,It's not a very Egyptian name ...and not very mighty either...
+Dialogue: 0,0:07:47.06,0:07:47.06,Default,CLEOPATRA,0,0,0,,It was I who invoked it... ...one morning I woke up and... I found a white hair! I can't have white hair! I'm too young for that!
+Dialogue: 0,0:07:56.23,0:07:56.23,Default,SPOOKY,0,0,0,,Aren't you more than ten thousand years old?
+Dialogue: 0,0:07:58.17,0:07:58.17,Default,CORNELIA,0,0,0,,You never ask an immortal queen's age!
+Dialogue: 0,0:08:01.03,0:08:01.03,Default,CLEOPATRA,0,0,0,,Anyway, I had to do something.
+Dialogue: 0,0:08:03.06,0:08:03.06,Default,CLEOPATRA,0,0,0,,Oh great deity arise from your millennial sleep, awaken your arcane powers...And so I awakened it... But the ancient deity didn't grant my simple plea!
+Dialogue: 0,0:08:14.01,0:08:14.01,Default,SPOOKY,0,0,0,,OK OK, white hair, Egyptian deity, blah blah blah. But why is it going around shooting rays at the inhabitants of Fantaville?
+Dialogue: 0,0:08:19.19,0:08:19.19,Default,CLEOPATRA,0,0,0,,Because mighty Fuzzywhiskers is...Furious! Awakening it, I interrupted its million-year sleep!.. And it won't stop.. not until it's turned everyone in Fantaville gray.. and sad.. and...
+Dialogue: 0,0:08:21.08,0:08:21.08,Default,GRUNT,0,0,0,,Staying still?
+Dialogue: 0,0:08:21.10,0:08:21.10,Default,SPOOKY,0,0,0,,(REACTION)
+Dialogue: 0,0:08:30.17,0:08:30.17,Default,SPOOKY,0,0,0,,But if it's the Egyptian God of youth, shouldn't it make everyone younger? (REACTION)
+Dialogue: 0,0:08:34.01,0:08:34.01,Default,CLEOPATRA,0,0,0,,Eh?! Are you an expert in Ancient Egyptian Gods now?!
+Dialogue: 0,0:08:36.19,0:08:36.19,Default,SPOOKY,0,0,0,,Touché, Cleopatra, touché! Go on please...
+Dialogue: 0,0:08:39.20,0:08:39.20,Default,CLEOPATRA,0,0,0,,...gray and sad and... and... (REACTION) ...and who cares anymore!
+Dialogue: 0,0:08:43.05,0:08:43.05,Default,VOICEOVER,0,0,0,,Guilty!
+Dialogue: 0,0:08:44.18,0:08:44.18,Default,SPOOKY,0,0,0,,I'll bet that in order to stop it you just need to apologize calmly and kindly... Dear deity, mighty Fuzzywhiskers, can you please...
+Dialogue: 0,0:08:51.06,0:08:51.06,Default,CAT,0,0,0,,(REACTIONS)
+Dialogue: 0,0:08:51.24,0:08:51.24,Default,SPOOKY,0,0,0,,(REACTIONS) I don't have any brilliant ideas!
+Dialogue: 0,0:08:55.15,0:08:55.15,Default,CHERRY,0,0,0,,I think the cat has the advantage...
+Dialogue: 0,0:08:57.09,0:08:57.09,Default,JANE,0,0,0,,Yeeeah... I think so too...
+Dialogue: 0,0:09:00.10,0:09:00.10,Default,CLEOPATRA,0,0,0,,You think Spooky will make it?
+Dialogue: 0,0:09:02.05,0:09:02.05,Default,GRUNT,0,0,0,,Dunno. Usually the boss has some brilliant idea...
+Dialogue: 0,0:09:07.05,0:09:07.05,Default,JANE,0,0,0,,Hmmm... I guess this is the end.
+Dialogue: 0,0:09:08.23,0:09:08.23,Default,SPOOKY,0,0,0,,(REACTIONS) There's just... one... hope!!! (REACTIONS) Cooool!
+Dialogue: 0,0:09:18.05,0:09:18.05,Default,PEACE IN THE WORLD,0,0,0,,I'm joy and happiness for everyone! I bring serenity to hearts...
+Dialogue: 0,0:09:21.13,0:09:21.13,Default,SPOOKY,0,0,0,,(REACTIONS) Hey there, Lucky Darko! See how powerful the ancient Egyptian God Fuzzywhiskers is?!
+Dialogue: 0,0:09:22.16,0:09:22.16,Default,LUCKY DARKO,0,0,0,,Hi Spooky!
+Dialogue: 0,0:09:27.11,0:09:27.11,Default,LUCKY DARKO,0,0,0,,Super powerful! I'm sure it will never be defeated!
+Dialogue: 0,0:09:30.16,0:09:30.16,Default,SPOOKY,0,0,0,,(REACTIONS)
+Dialogue: 0,0:09:34.10,0:09:34.10,Default,ALSAH,0,0,0,,(REACTIONS)
+Dialogue: 0,0:09:34.10,0:09:34.10,Default,ENNAH,0,0,0,,(REACTIONS)
+Dialogue: 0,0:09:36.11,0:09:36.11,Default,CORNELIA,0,0,0,,(REACTIONS)
+Dialogue: 0,0:09:36.11,0:09:36.11,Default,HORROR,0,0,0,,(REACTIONS)
+Dialogue: 0,0:09:37.19,0:09:37.19,Default,CHERRY,0,0,0,,Spoooky! I knew you could do it! (REACTIONS) Ehm... I'm back in color...
+Dialogue: 0,0:09:38.11,0:09:38.11,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:09:38.12,0:09:38.12,Default,SPOOKY,0,0,0,,SorryIhavetoeatcheese... I'm hungry... Finally! I can eat you now...(REACTIONS)
+Dialogue: 0,0:09:48.13,0:09:48.13,Default,JANE,0,0,0,,Just so we're clear, you did all this because you found a white hair?
+Dialogue: 0,0:09:51.13,0:09:51.13,Default,CHERRY,0,0,0,,Yeah, couldn't you dye it like everyone else?  I mean, not me. I'm, um, a natural redhead...
+Dialogue: 0,0:09:56.02,0:09:56.02,Default,GRUNT,0,0,0,,You can tell by the delicacy of the metallic overtones.
+Dialogue: 0,0:09:58.06,0:09:58.06,Default,CLEOPATRA,0,0,0,,Well, yes, of course, I thought about that. But who would be crazy enough to mess with this noble Egyptian magic? Hey!
+Dialogue: 0,0:10:06.05,0:10:06.05,Default,CHERRY,0,0,0,,(REACTION)
+Dialogue: 0,0:10:06.05,0:10:06.05,Default,JANE,0,0,0,,(REACTION)
+Dialogue: 0,0:10:06.05,0:10:06.05,Default,SPOOKY,0,0,0,,(REACTIONS) Waaiit a moment... this isn't a hair!
+Dialogue: 0,0:10:10.16,0:10:10.16,Default,GRUNT,0,0,0,,Yeah, that would be a lot more luminous and wavy!
+Dialogue: 0,0:10:13.18,0:10:13.18,Default,JANE,0,0,0,,100% linen. It's a fiber from the...
+Dialogue: 0,0:10:16.11,0:10:16.11,Default,CHERRY,0,0,0,,...mummies' bandages!
+Dialogue: 0,0:10:18.18,0:10:18.18,Default,MUMMIES,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:20.06,0:10:20.06,Default,SPOOKY,0,0,0,,Too bad though, if you'd stayed in black and white you could have done a great French perfume advertisement!
+Dialogue: 0,0:10:25.19,0:10:25.19,Default,VOICEOVER,0,0,0,,(french accent) Cleo... pour immortal queens...
+Dialogue: 0,0:10:28.06,0:10:28.06,Default,CLEOPATRA,0,0,0,,Pah, it doesn't matter... the important thing is that I'm still young!
+Dialogue: 0,0:10:31.16,0:10:31.16,Default,GRUNT,0,0,0,,Ten thousand years young! (REACTION)
+Dialogue: 0,0:10:34.00,0:10:34.00,Default,PRINCESS PROM,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:36.13,0:10:36.13,Default,GRUNT,0,0,0,,Now that everything is back to normal you can get back to your yellow food contest, boss!
+Dialogue: 0,0:10:39.07,0:10:40.09,Default,JANE,0,0,0,,RX
+Dialogue: 0,0:10:40.09,0:10:40.09,Default,SPOOKY,0,0,0,,Yeeeaaah!!!! (REACTIONS)
+Dialogue: 0,0:10:41.17,0:10:41.17,Default,LUCKY DARKO,0,0,0,,Heeey! A banana! It's good for your health! (REACTIONS) Oh... well, never mind! Have a nice day everyone!
+Dialogue: 0,0:10:45.02,0:10:45.02,Default,DRAKY,0,0,0,,(REACTION)
+Dialogue: 0,0:10:45.21,0:10:45.21,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:45.21,0:10:45.21,Default,GRUNT,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:45.21,0:10:45.21,Default,JANE,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:51.24,0:10:51.24,Default,ALSAH,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:51.24,0:10:51.24,Default,ENNAH,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:51.24,0:10:51.24,Default,AMAZING,0,0,0,,(REACTIONS)
+Dialogue: 0,0:10:51.24,0:10:51.24,Default,CAPTAIN SCOUNDREL,0,0,0,,(REACTIONS)

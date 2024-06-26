@@ -1,0 +1,244 @@
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Main,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,2.6,1,2,20,20,25,204
+Style: Main_Top,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,2.6,1,8,10,10,25,204
+Style: Main_Italic,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,2.6,1,2,10,10,25,204
+Style: Main_Top_Italic,Tahoma,22,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,2.6,1,8,10,10,25,204
+Style: Main_Flashback,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,0,0,0,0,100,100,0,0,1,2.6,1,2,20,20,25,204
+Style: Main_Flashback_Italic,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,0,-1,0,0,100,100,0,0,1,2.6,1,2,20,20,25,204
+Style: SIGNS,Tahoma,22,&H00FFFFFF,&H00000002,&H00000000,&H00000000,-1,0,0,0,113.793,100,0,0,1,1,0,8,40,40,25,0
+Style: Main_Flashback_Top,Tahoma,22,&H00FFFFFF,&H000000FF,&H00500000,&H96500000,0,0,0,0,100,100,0,0,1,2.6,1,8,10,10,25,204
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:42.03,0:00:51.12,Default,SPOOKY,0,0,0,,(excited) Everyone watch this, I’m about to do an awesome ollieee! / (painful moan) / (excited) Hey, I knew I was great, but I wasn’t expecting all these cameras yet!
+Dialogue: 0,0:00:51.12,0:00:59.13,Default,TRIXX,0,0,0,,(speaks to camera) As you can see, Spooky Wolf is still totally unaware of what’s in store for him. (wink) (in a soft voice) Watch this folks at home, we’re going to tell him in the most delicate way possible (excited) (to Spooky, shouting) Spooky! You’re the king of Fantaville!!!!!!!!!!
+Dialogue: 0,0:00:59.13,0:00:59.13,Default,GENIE,0,0,0,,(cheer) Yeeeeeaah!!!
+Dialogue: 0,0:00:59.13,0:00:59.13,Default,CLEOPATRA,0,0,0,,(cheer) Yeeeeeaah!!!
+Dialogue: 0,0:00:59.13,0:00:59.13,Default,SAILOR,0,0,0,,(cheer) Yeeeeeaah!!!
+Dialogue: 0,0:00:59.13,0:00:59.13,Default,JILL TALKINGHEAD,0,0,0,,(cheer) Yeeeeeaah!!!
+Dialogue: 0,0:00:59.13,0:01:03.10,Default,CROWD,0,0,0,,(cheer) Yeeeeeaah!!!
+Dialogue: 0,0:01:03.10,0:01:10.04,Default,SPOOKY,0,0,0,,(nonchalant) Of course, and I’m also the (excited) Galactic Stellar Supreme Interdimensional Empero. (jovial, dropping his pose) everything was fine up until “Supreme”, I don’t want to exaggerate…
+Dialogue: 0,0:01:10.04,0:01:15.20,Default,TRIXX,0,0,0,,But it’s all true! Look, an ancient scroll has been found with a prophecy which proclaims that the living descendant of the Wolfs will be KING OF FANTAVILLE!
+Dialogue: 0,0:01:15.20,0:01:16.24,Default,SPOOKY,0,0,0,,(painful grunt)(discreet)
+Dialogue: 0,0:01:16.24,0:01:18.12,Default,TRIXX,0,0,0,,Well then, your highness? Your first royal declaration?
+Dialogue: 0,0:01:18.12,0:01:23.24,Default,SPOOKY,0,0,0,,(confused) Um… (upset) No, I don’t wanna be the king! I’ll have to write all the laws. Feed my loyal subjects.
+Dialogue: 0,0:01:23.24,0:01:27.04,Default,JANE,0,0,0,,(toneless) You’re not the king. (a bit louder) You’re not the king.
+Dialogue: 0,0:01:27.04,0:01:29.11,Default,SPOOKY,0,0,0,,(raising voice) Wage war against the enemies of the kingdom!!!
+Dialogue: 0,0:01:29.11,0:01:32.00,Default,JANE,0,0,0,,(punctuates in exasperation) You!.. Are! Not!.. The king! (calm) This story is all a bunch of utter nonsense. There’s no other explanation.
+Dialogue: 0,0:01:32.00,0:01:34.06,Default,SPOOKY,0,0,0,,(confused moan)
+Dialogue: 0,0:01:34.06,0:01:36.08,Default,GRUNT,0,0,0,,Yeah yeah, except jealousy. (in Spooky’s ear) Hey boss, have you thought about the perks? A king can do whatever he wants!
+Dialogue: 0,0:01:36.08,0:01:40.01,Default,JANE,0,0,0,,(annoyed moan) / (confused moan)
+Dialogue: 0,0:01:40.01,0:01:45.17,Default,SPOOKY,0,0,0,,(suddenly interested) That’s true! Like / Ah, you’re right! Like / I’ve got it! Like / (confused) Huh? / (hypnotic tone) Pizza!
+Dialogue: 0,0:01:45.17,0:01:49.19,Default,GRUNT,0,0,0,,For example, something like this: a king can eat pizza every day of the week!
+Dialogue: 0,0:01:49.19,0:01:50.15,Default,SPOOKY,0,0,0,,(magnificent and bold) Say Hello to your new kiiiiing!!!!
+Dialogue: 0,0:01:50.15,0:01:53.18,Default,TRIXX,0,0,0,,(excited moan) / (closed mouth confused moan)
+Dialogue: 0,0:01:53.18,0:01:56.16,Default,DRAKY,0,0,0,,(in pain) Aaaah! The sun! It burns! It buuuuurns!
+Dialogue: 0,0:01:56.16,0:01:57.11,Default,TRIXX,0,0,0,,(as if nothing happened) Fantastic! Stay tuned, we’ll have more for you as soon as we show you live footage of the coronation.
+Dialogue: 0,0:01:57.11,0:02:01.13,Default,SPOOKY,0,0,0,,(confused moan)
+Dialogue: 0,0:02:01.13,0:02:01.19,Default,SNOTTY,0,0,0,,(scolding) Hey, what's all this chaos! That’s it, go away, go away!
+Dialogue: 0,0:02:01.19,0:02:01.19,Default,TRIXX,0,0,0,,Rx
+Dialogue: 0,0:02:01.19,0:02:04.20,Default,DRAKY,0,0,0,,RX
+Dialogue: 0,0:02:04.20,0:02:08.19,Default,SPOOKY,0,0,0,,(trying to cool snotty off) Come on Snotty, today is a day of celebration! (bold) Haven’t you heard the news? (bold) I, Spooky, am the (extending word) new-
+Dialogue: 0,0:02:08.19,0:02:10.20,Default,SNOTTY,0,0,0,,(cuts short) Nope! /
+Dialogue: 0,0:02:10.20,0:02:13.19,Default,SNOTTY,0,0,0,,(doesn’t let him say “king”) (scolding) I don’t care! We gnomes have a big problem to solve right now!
+Dialogue: 0,0:02:13.19,0:02:16.19,Default,SPOOKY,0,0,0,,(confused) A problem? (sly) Forget about it: you’re talking to the (extending word) new-
+Dialogue: 0,0:02:16.19,0:02:17.17,Default,SNOTTY,0,0,0,,(exasperated) Go awaaaay! (19) (grunt) (fake whispers)
+Dialogue: 0,0:02:17.17,0:02:18.18,Default,GRUNT,0,0,0,,(threatening) Don’t you know who you’re talking to?! (grunts)
+Dialogue: 0,0:02:18.18,0:02:22.10,Default,SPOOKY,0,0,0,,(pleased) I like your grit, Grunt! I’m appointing you to be my personal (with emphasis) bodyguard!
+Dialogue: 0,0:02:22.10,0:02:23.19,Default,CHERRY,0,0,0,,(surprised) Spooky! Is it all true? (gasps)
+Dialogue: 0,0:02:23.19,0:02:26.23,Default,GRUNT,0,0,0,,(very serious, slow, cold) Show me your authorization, a document, an ID, or your fingerprints! / (grunts) Hm?,, mmm
+Dialogue: 0,0:02:26.23,0:02:28.00,Default,CHERRY,0,0,0,,(confused, scared, calling out) Spoooky…?!
+Dialogue: 0,0:02:28.00,0:02:33.20,Default,SPOOKY,0,0,0,,So sorry Cherry! He’s just doing his job! But now, um, could you show me your authorization?
+Dialogue: 0,0:02:33.20,0:02:41.04,Default,PLASMA,0,0,0,,(struggles to hold back his indignation) My dear fellow citizens, from this evening on I shall no longer be your mayor… (holds back his emotion) But I’m happy to leave the city in the hands of this... (42) young, spirited wolf who- (reacs) 
+Dialogue: 0,0:02:41.04,0:02:44.08,Default,SPOOKY,0,0,0,,(inhales) (gulps, chews)
+Dialogue: 0,0:02:44.08,0:02:50.24,Default,VOICEOVER,0,0,0,,Has someone taken your job and you’re fuming with rage… but you don’t want to show it? Smile at life with the TOOTHENVY universal stain remover for teeth!
+Dialogue: 0,0:02:50.24,0:02:55.00,Default,PLASMA,0,0,0,,(grunts) (stutters) (recovers jovially) But for now let’s give the floor to the future king of (excited) Fantaville!
+Dialogue: 0,0:02:55.00,0:02:56.00,Default,SAILOR,0,0,0,,(cheers) (09) (cheers) (15) (cheers)
+Dialogue: 0,0:02:56.00,0:02:56.00,Default,HOURGLASS MAN,0,0,0,,(cheer until 3:02) (09) (cheers) (15) (cheers)
+Dialogue: 0,0:02:56.00,0:02:56.09,Default,SANTA,0,0,0,,(cheer) (09) (cheer) (15) (cheer)
+Dialogue: 0,0:02:56.09,0:02:56.09,Default,GASTON ,0,0,0,,(cheer until 03:02)
+Dialogue: 0,0:02:56.09,0:02:57.00,Default,CROWD,0,0,0,,(cheer until 3:02)
+Dialogue: 0,0:02:57.00,0:02:57.13,Default,CAPTAIN SCOUNDREL,0,0,0,,(subtle reac)
+Dialogue: 0,0:02:57.13,0:02:59.18,Default,CHERRY,0,0,0,,(a little worried) Let’s hope all this doesn’t go to his head…
+Dialogue: 0,0:02:59.18,0:03:09.00,Default,SPOOKY,0,0,0,,(grunts) (gulps) (chews) (swallows) (exhales) (slyly) It’s good to be the king. (solemn to the citizens, but with a sauce mustache) My dear subjects… In my kingdom it will be compulsory… to have breakfast in your pajamas!  / I will forbid the wearing of black… but picking your nose in public will be allowed! And for the finale… I will give every Fantaville resident a (excited) bedside mini-king-Spooky…with built-in ice cream holder!
+Dialogue: 0,0:03:09.00,0:03:09.09,Default,CAPTAIN SCOUNDREL,0,0,0,,(cheer) (15) (cheer)
+Dialogue: 0,0:03:09.09,0:03:09.09,Default,GASTON ,0,0,0,,(subtle cheer) / (16) (cheer)
+Dialogue: 0,0:03:09.09,0:03:22.00,Default,CROWD,0,0,0,,(subtle cheer) / (16) (cheer)
+Dialogue: 0,0:03:22.00,0:03:22.00,Default,CAPTAIN SCOUNDREL,0,0,0,,Hm? (27) (cheer) (32) (cheer until 03:51) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer)
+Dialogue: 0,0:03:22.00,0:03:22.10,Default,SAILOR,0,0,0,,Hm? (27) (cheer) (32) (cheer until 03:51) (cheer) (cheer) (cheer) (cheer)(cheer) (cheer) (cheer)(cheer) (cheer) (cheer)
+Dialogue: 0,0:03:22.10,0:03:22.10,Default,GASTON ,0,0,0,,Hm? Huh? (25) (cheer until 03:51) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer)
+Dialogue: 0,0:03:22.10,0:03:22.19,Default,CROWD,0,0,0,,Hm? Huh? (25) (cheer until 03:51) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer) (cheer)
+Dialogue: 0,0:03:22.19,0:03:25.00,Default,JANE,0,0,0,,(confused moan) Huh?
+Dialogue: 0,0:03:25.00,0:03:28.00,Default,TRILLIONARE,0,0,0,,(cheer until 03:51)
+Dialogue: 0,0:03:28.00,0:03:28.00,Default,SANTA,0,0,0,,(cheer until 03:51)
+Dialogue: 0,0:03:28.00,0:03:28.00,Default,MIRROR-MIRROR,0,0,0,,(cheer until 03:51)
+Dialogue: 0,0:03:28.00,0:03:28.20,Default,HOURGLASS MAN,0,0,0,,(cheer until 03:51) (cheer) (cheer) (cheer) (cheer) (cheer)
+Dialogue: 0,0:03:28.20,0:03:29.15,Default,REINDEER 1,0,0,0,,(cheer until 03:51)
+Dialogue: 0,0:03:29.15,0:03:31.00,Default,SPOOKY,0,0,0,,(chuckles)
+Dialogue: 0,0:03:31.00,0:03:32.16,Default,FROGS,0,0,0,,(blow kiss)
+Dialogue: 0,0:03:32.16,0:03:36.14,Default,CHERRY,0,0,0,,(annoyed and worried) OOOOO-KKKKK, it looks like he’ll need our help… handling the weight of the crown.
+Dialogue: 0,0:03:36.14,0:03:42.16,Default,JANE,0,0,0,,(suspicious) Assuming the crown really belongs to him. This scroll that suddenly appeared out of nowhere doesn’t have me convinced… (dumbfounded) Sorry, what are you doing?
+Dialogue: 0,0:03:42.16,0:03:46.20,Default,GRUNT,0,0,0,,(effort grunt) I’m protecting my king! (Grunts) / (screams) / (effort grunt) (grunts) (sighs)
+Dialogue: 0,0:03:46.20,0:03:49.17,Default,SPOOKY,0,0,0,,(kiss) (kiss)
+Dialogue: 0,0:03:49.17,0:03:53.05,Default,SPOOKY,0,0,0,,(pleased) (UNDER GRUNT’S WEIGHT) Fffank you, Grunt, you ffavfed my lifffe!
+Dialogue: 0,0:03:53.05,0:03:53.05,Default,CHERRY,0,0,0,,(annoyed grunt)
+Dialogue: 0,0:03:53.05,0:03:53.21,Default,JANE,0,0,0,,(annoyed grunt)
+Dialogue: 0,0:03:53.21,0:04:00.20,Default,SPOOKY,0,0,0,,(rapid lines) …The royal guard… (checks the album, there’s the Grunt sticker) Got it! The court doctor… (checks the album, there’s the Dr. Sayaah sticker) I’ve got it! (takes an Amazing sticker and sticks it in the album) And here’s the page! (reflects) All that’s missing is…The fool! / (confused moan)
+Dialogue: 0,0:04:00.20,0:04:02.03,Default,GRUNT,0,0,0,,(glued to the end of Spooky’s line, and monotone as if it were an obvious answer) The queen.
+Dialogue: 0,0:04:02.03,0:04:02.13,Default,JANE,0,0,0,,(annoyed grunt)
+Dialogue: 0,0:04:02.13,0:04:04.07,Default,CHERRY,0,0,0,,(gasps) / (soft moan) (chuckles)
+Dialogue: 0,0:04:04.07,0:04:06.07,Default,SPOOKY,0,0,0,,(surprised pleased moan)
+Dialogue: 0,0:04:06.07,0:04:08.14,Default,GRANNY,0,0,0,,Wolves, never trust ‘em!
+Dialogue: 0,0:04:08.14,0:04:10.02,Default,SPOOKY,0,0,0,,Thank you, my faithful subject!
+Dialogue: 0,0:04:10.02,0:04:12.18,Default,JANE,0,0,0,,(bursts out, exasperated) (scolding) Oh reeeaally Spooky, when are you going to snap out of it???
+Dialogue: 0,0:04:12.18,0:04:16.14,Default,SPOOKY,0,0,0,,(sips) (good-naturedly) Am I mistaken or do I taste a hint of jealously in this juice?
+Dialogue: 0,0:04:16.14,0:04:17.15,Default,JANE,0,0,0,,(defiant) Don’t you find it absurd that this phantom prophetic scroll suddenly appeared out of nowhere? And that no absolutely no one had seen it before? (gets up, fired up)This is a case for Spooky Wolf!
+Dialogue: 0,0:04:17.15,0:04:23.07,Default,CHERRY,0,0,0,,(confused moan)
+Dialogue: 0,0:04:23.07,0:04:24.01,Default,GRUNT,0,0,0,,(grunts)
+Dialogue: 0,0:04:24.01,0:04:31.18,Default,SPOOKY,0,0,0,,(realizes) I hadn’t thought about that!!! Now that I have to rule over my kingdom… who will take care of the detective agency? I hereby name you… (puts the scepter on her shoulders) Royal Detective!
+Dialogue: 0,0:04:31.18,0:04:34.01,Default,JANE,0,0,0,,(a little resentful) Hmm, OK, we’ll investigate without you! (on the case, to Cherry and Grunt) Let’s go take a look at that strange scroll!
+Dialogue: 0,0:04:34.01,0:04:35.13,Default,SPOOKY,0,0,0,,(pleased moan) (effort playful moan) (confused moan) Huh?
+Dialogue: 0,0:04:35.13,0:04:41.06,Default,CHERRY,0,0,0,,(worried) And Spooky, you be careful… crowns bring joy, but also trouble…
+Dialogue: 0,0:04:41.06,0:04:43.19,Default,GRUNT,0,0,0,,(effort grunt) (grunts)
+Dialogue: 0,0:04:43.19,0:04:45.16,Default,CHERRY,0,0,0,,(confused moan) / (confused moan)
+Dialogue: 0,0:04:45.16,0:04:47.06,Default,GRUNT,0,0,0,,(grunts)
+Dialogue: 0,0:04:47.06,0:04:50.10,Default,JANE,0,0,0,,(stops, impatient) (scolding) Hey, can you go play that thing somewhere else? You’re making me anxious!
+Dialogue: 0,0:04:50.10,0:04:53.22,Default,TONY GREYTONES,0,0,0,,(very melancholy) Sorry, I was rehearsing some music for when our king plays hide and seek…
+Dialogue: 0,0:04:53.22,0:04:54.18,Default,CHERRY,0,0,0,,Um… (worried) Jane, are you sure we’re going to find the scroll is here?
+Dialogue: 0,0:04:54.18,0:04:57.09,Default,JANE,0,0,0,,(soft moan)
+Dialogue: 0,0:04:57.09,0:05:04.01,Default,JANE,0,0,0,,(emphatic) All Fantaville’s confidential documents are hidden in… (excited) this super-mega-maximum security archive! (scolding) Stop it.
+Dialogue: 0,0:05:04.01,0:05:07.19,Default,TONY GREYTONES,0,0,0,,It was music for when our king… OK OK, I’m going!
+Dialogue: 0,0:05:07.19,0:05:07.19,Default,CHERRY,0,0,0,,(pants)
+Dialogue: 0,0:05:07.19,0:05:08.18,Default,JANE,0,0,0,,(pants)
+Dialogue: 0,0:05:08.18,0:05:10.19,Default,GRUNT,0,0,0,,Leave this to me! (effort grunt)
+Dialogue: 0,0:05:10.19,0:05:13.06,Default,JANE,0,0,0,,This calls for… (excited) my padlock-tickling feather! (chuckles)
+Dialogue: 0,0:05:13.06,0:05:15.09,Default,CHERRY,0,0,0,,(annoyed) Oh come on, locks aren’t ticklis…
+Dialogue: 0,0:05:15.09,0:05:16.17,Default,PADLOCKS,0,0,0,,(laughter)
+Dialogue: 0,0:05:16.17,0:05:17.01,Default,JANE,0,0,0,,(defiant) You were saying?
+Dialogue: 0,0:05:17.01,0:05:21.02,Default,GRUNT,0,0,0,,(grunts) (effort grunt) (grunts) (suspicious) Hey you, what are you doing in here?!
+Dialogue: 0,0:05:21.02,0:05:21.23,Default,SNOTTY,0,0,0,,(scolding) None of your business!
+Dialogue: 0,0:05:21.23,0:05:23.08,Default,JANE,0,0,0,,(curious) Are you looking for something???
+Dialogue: 0,0:05:23.08,0:05:25.00,Default,SNOTTY,0,0,0,,No! I’m not looking for any crown!
+Dialogue: 0,0:05:25.00,0:05:26.20,Default,JANE,0,0,0,,(confused) Crown? (defiant) Don’t you mean the scroll?
+Dialogue: 0,0:05:26.20,0:05:32.17,Default,SNOTTY,0,0,0,,(stutters) (caught out) Erm, nooo… no!!! (grunts) (effort grunts) (31) (politely) Hey.. please would you kindly let me out?
+Dialogue: 0,0:05:32.17,0:05:33.22,Default,JANE,0,0,0,,(grunts) / (confused moan)
+Dialogue: 0,0:05:33.22,0:05:33.22,Default,CHERRY,0,0,0,,(confused moan) / (kind) Here you go…
+Dialogue: 0,0:05:33.22,0:05:35.03,Default,GRUNT,0,0,0,,(confused moan)
+Dialogue: 0,0:05:35.03,0:05:36.11,Default,SNOTTY,0,0,0,,(brusque) Don’t expect a thanks!
+Dialogue: 0,0:05:36.11,0:05:38.17,Default,GRUNT,0,0,0,,It’ll be best if I follow him…(grunts) (effort grunt) (effort grunt)
+Dialogue: 0,0:05:38.17,0:05:40.14,Default,SNOTTY,0,0,0,,(effort grunt) (effort grunt) (effort grunt)
+Dialogue: 0,0:05:40.14,0:05:47.04,Default,JANE,0,0,0,,(thinking) Mmh. (reading) Loch Ness Monster selfie… The case of the mysterious Yeti hairstylist… The pursuit of peace in the world…
+Dialogue: 0,0:05:47.04,0:05:48.15,Default,PEACE IN THE WORLD,0,0,0,,(flying away) I’m peace in the woooorld.
+Dialogue: 0,0:05:48.15,0:05:52.10,Default,JANE,0,0,0,,(excited) And here it is: the scroll that proclaims Spooky the King!
+Dialogue: 0,0:05:52.10,0:05:53.00,Default,SNOTTY,0,0,0,,(effort grunt)
+Dialogue: 0,0:05:53.00,0:05:58.24,Default,AMAZING,0,0,0,,Come and have an audience with your king! But be careful, anyone who talks for too long will be covered in very sugary syrup!
+Dialogue: 0,0:05:58.24,0:06:00.18,Default,CUPID,0,0,0,,(dreamy) I met the king!
+Dialogue: 0,0:06:00.18,0:06:04.00,Default,GENIE,0,0,0,,(excited) Sire, here is my gift to you!
+Dialogue: 0,0:06:04.00,0:06:05.16,Default,SPOOKY,0,0,0,,(chews) (disappointed with mouth full) Really, a scooter?
+Dialogue: 0,0:06:05.16,0:06:13.17,Default,GENIE,0,0,0,,(excited) A sneeze speeder scooter! Just sneeze in the space here! (sneezes) (scared moans)
+Dialogue: 0,0:06:13.17,0:06:20.16,Default,SPOOKY,0,0,0,,(enthusiastic) Faaaaaantastic! (then regally, with a magnanimous tone) Well, you can leave it in the garden! Next please! (chuckles)
+Dialogue: 0,0:06:20.16,0:06:23.09,Default,GENIE,0,0,0,,(gasps) (grunts) (disappointed) But our meeting didn’t last more than one minute!
+Dialogue: 0,0:06:23.09,0:06:28.12,Default,SPOOKY,0,0,0,,(pleased) It’s good to be king! Where’s the next one? (annoyed) Come on! (surprised moan)
+Dialogue: 0,0:06:28.12,0:06:33.17,Default,SPOOKY,0,0,0,,(moved) Oh… what a nice beetle! I think I’ll name you Royal Beetle!! What have you to say to your king? (surprised) Oh! (chuckles) Oh! Hmm… ha ha… (surprised) …ohhhhh! (excited) But then…
+Dialogue: 0,0:06:33.17,0:06:37.05,Default,ALARM COCKROACH,0,0,0,,(whispering sounds)
+Dialogue: 0,0:06:37.05,0:06:39.21,Default,SNOTTY,0,0,0,,(annoyed grunt) (grunts)
+Dialogue: 0,0:06:39.21,0:06:46.09,Default,GRUNT,0,0,0,,(grunts) (grunts) / (grunts) (scolding) (44) I caught you! What are you lot plotting?!
+Dialogue: 0,0:06:46.09,0:06:47.20,Default,SNOTTY,0,0,0,,(scolding) None of your business!
+Dialogue: 0,0:06:47.20,0:06:52.20,Default,GRUNT,0,0,0,,(very serious) Then I’ll make it my business... (very fast, begging) Tell me I beg you, I beg you, I beg you, I beg you, I beg you, I beg you, I beg you.
+Dialogue: 0,0:06:52.20,0:06:53.00,Default,CHERRY,0,0,0,,(defiant) Hi Cleopatra! Would you care to explain… (with emphasis) this?!
+Dialogue: 0,0:06:53.00,0:06:53.23,Default,JANE,0,0,0,,Hm!
+Dialogue: 0,0:06:53.23,0:06:56.13,Default,CLEOPATRA,0,0,0,,(surprised) Huh?
+Dialogue: 0,0:06:56.13,0:06:58.14,Default,CLEOPATRA,0,0,0,,(disinterested eyebrow raise) You already know what it says, right?
+Dialogue: 0,0:06:58.14,0:07:08.24,Default,JANE,0,0,0,,Oh yes, we know what it says, and we also know (scolding) that it’s a fake!!! Radiocarbon analysis has revealed that the hieroglyphs were written only a couple of days ago…And then on the back there’s a logo for the Pyramid, (with emphasis) your disco!
+Dialogue: 0,0:07:08.24,0:07:11.17,Default,CLEOPATRA,0,0,0,,(frustrated grunt) (scolding) (shouting)  I told you buffoons to use a new scroll!
+Dialogue: 0,0:07:11.17,0:07:12.15,Default,VOICEOVER,0,0,0,,Guilty!
+Dialogue: 0,0:07:12.15,0:07:14.23,Default,CHERRY,0,0,0,,(confused) But, why create a fake ancient scroll?
+Dialogue: 0,0:07:14.23,0:07:20.17,Default,CLEOPATRA,0,0,0,,Because that may be a fake, but this is real! It’s an ancient prophecy which says that when I turn twenty…
+Dialogue: 0,0:07:20.17,0:07:22.06,Default,JANE,0,0,0,,(confused) But you’re already 10,019…
+Dialogue: 0,0:07:22.06,0:07:27.16,Default,CLEOPATRA,0,0,0,,(annoyed) (scolding) I’m NINETEEN, please!  Anyway, it says on my twentieth birthday, if I’m not in the company of a king, I will lose…
+Dialogue: 0,0:07:27.16,0:07:28.15,Default,CHERRY,0,0,0,,(worried) Your eternal beauty?
+Dialogue: 0,0:07:28.15,0:07:29.18,Default,JANE,0,0,0,,(worried) The softness of your skin?
+Dialogue: 0,0:07:29.18,0:07:35.06,Default,CLEOPATRA,0,0,0,,(sobbing) No! I will lose ownership of the Pyramid Club, my precious dance club!! / (matter of fact) So I needed a king.. But I didn’t want a king who would want to command, or worse yet, give me his opinion!
+Dialogue: 0,0:07:35.06,0:07:35.14,Default,CHERRY,0,0,0,,(confused moan) / (surprised moan)
+Dialogue: 0,0:07:35.14,0:07:39.11,Default,JANE,0,0,0,,(confused moan)
+Dialogue: 0,0:07:39.11,0:07:42.06,Default,CHERRY,0,0,0,,(passionate and jealous) So you chose Spooky, who is the kindest wolf in Fantaville…
+Dialogue: 0,0:07:42.06,0:07:47.00,Default,CLEOPATRA,0,0,0,,(precise, haughty) I chose Spooky because I knew being king would go to his head straight away and he wouldn’t bother to investigate the crown.
+Dialogue: 0,0:07:47.00,0:07:50.17,Default,JANE,0,0,0,,(annoyed) (scolding) Enough with this scroll already! (realizes confused) The crown? What does the crown have to do with anything?
+Dialogue: 0,0:07:50.17,0:07:53.06,Default,GRUNT,0,0,0,,(very fast, begging) I beg you, I beg you, I beg you, I beg you, I beg you, I beg you, I beg you.
+Dialogue: 0,0:07:53.06,0:07:58.20,Default,SNOTTY,0,0,0,,(exasperated) Oh all right! We’re looking for the crown of the king of the garden gnomes… (heartbroken) Someone stole it from  us this morning!
+Dialogue: 0,0:07:58.20,0:08:06.19,Default,GRUNT,0,0,0,,(laughs) And who would be stupid enough to want you gnomes’ crown? (reflects) It’s certainly a strange coincidence that it was stolen, the same day on which Spooky will be crowned king!
+Dialogue: 0,0:08:06.19,0:08:06.19,Default,SNOTTY,0,0,0,,
+Dialogue: 0,0:08:06.19,0:08:08.00,Default,SNOTTY,0,0,0,,
+Dialogue: 0,0:08:08.00,0:08:08.09,Default,GNOME 1,0,0,0,,(FAINTING MOAN)
+Dialogue: 0,0:08:08.09,0:08:08.15,Default,GRUNT,0,0,0,,Didn’t you know? The whole of Fantaville is talking about it!
+Dialogue: 0,0:08:08.15,0:08:08.15,Default,GNOME,0,0,0,,(fainting moan) (grunts)
+Dialogue: 0,0:08:08.15,0:08:11.15,Default,GNOME 2,0,0,0,,(fainting moan) (grunts)
+Dialogue: 0,0:08:11.15,0:08:12.11,Default,SPOOKY,0,0,0,,(bold) I’m the new-
+Dialogue: 0,0:08:12.11,0:08:14.06,Default,SNOTTY,0,0,0,,(scolding) I don’t care!
+Dialogue: 0,0:08:14.06,0:08:16.23,Default,SNOTTY,0,0,0,,(with a tone) Us garden gnomes only talk to other garden gnomes!
+Dialogue: 0,0:08:16.23,0:08:19.11,Default,GRUNT,0,0,0,,Well, Spooky will be crowned the king this evening!
+Dialogue: 0,0:08:19.11,0:08:26.12,Default,SNOTTY,0,0,0,,(realizes) With our crown! I don’t like that wolf, but he doesn’t deserve the terrible thing that’s going to happen to him because of the crown… (rethinking) maybe.
+Dialogue: 0,0:08:26.12,0:08:28.06,Default,GRUNT,0,0,0,,(worried) He doesn’t deserve what?!
+Dialogue: 0,0:08:28.06,0:08:28.06,Default,CHERRY,0,0,0,,(in panic) But that’s terrible! (panic moans)
+Dialogue: 0,0:08:28.06,0:08:29.06,Default,JANE,0,0,0,,(panic moans)
+Dialogue: 0,0:08:29.06,0:08:33.10,Default,CLEOPATRA,0,0,0,,(evil tone) Now you know what will happen to Spooky as soon as he puts the crown on his head.
+Dialogue: 0,0:08:33.10,0:08:34.20,Default,TONY GREYTONES,0,0,0,,(frustrated) OK, OK…
+Dialogue: 0,0:08:34.20,0:08:34.20,Default,CHERRY,0,0,0,,(in panic) We need to warn Spooky right away!
+Dialogue: 0,0:08:34.20,0:08:36.07,Default,JANE,0,0,0,,(panic moans)
+Dialogue: 0,0:08:36.07,0:08:38.09,Default,CLEOPATRA,0,0,0,,(seraphic) Oh no. You’re not going anywhere.
+Dialogue: 0,0:08:38.09,0:08:42.18,Default,GRUNT,0,0,0,,I want to save Spooky!.. You want your crown back! (with emphasis) We could help each other!.. Hm?
+Dialogue: 0,0:08:42.18,0:08:44.16,Default,SNOTTY,0,0,0,,(haughty) We could also not help each other!
+Dialogue: 0,0:08:44.16,0:08:46.12,Default,GRUNT,0,0,0,,I get it. (shouting) I’m coming, boss!
+Dialogue: 0,0:08:46.12,0:08:48.23,Default,GNOME 2,0,0,0,,(curious) Hey.. now how are we gonna make it to the coronation in time? / (screams until 8:55)
+Dialogue: 0,0:08:48.23,0:08:50.00,Default,SNOTTY,0,0,0,,(confused moan) / (screams)
+Dialogue: 0,0:08:50.00,0:08:55.03,Default,GNOME 1,0,0,0,,(screams) (screams) (screams) 
+Dialogue: 0,0:08:55.03,0:08:56.00,Default,CROWD,0,0,0,,(cheers until 9:00)
+Dialogue: 0,0:08:56.00,0:08:56.03,Default,CAPTAIN SCOUNDREL,0,0,0,,(cheers)
+Dialogue: 0,0:08:56.03,0:08:56.03,Default,TONY GREYTONES,0,0,0,,(cheer)
+Dialogue: 0,0:08:56.03,0:08:56.03,Default,GENIE,0,0,0,,(cheers until 9:00)
+Dialogue: 0,0:08:56.03,0:09:00.01,Default,TINKERBAG,0,0,0,,(cheer)
+Dialogue: 0,0:09:00.01,0:09:03.23,Default,HIP,0,0,0,,(rapping) Spooky is a wolf who cracks cases every single day. With three little Piggie friends who help along the way. Eating pizza drinking shakes, rolls with a skateboard not a Rolls. He’s got a new case now, all hail the Wolf!
+Dialogue: 0,0:09:03.23,0:09:06.01,Default,HOP,0,0,0,,(raping) Eating pizza drinking shakes, rolls with a skateboard not a Rolls. He’s got a new case now, all hail the Wolf!
+Dialogue: 0,0:09:06.01,0:09:08.22,Default,UP,0,0,0,,(raping) He’s got a new case now, all hail the Wolf!
+Dialogue: 0,0:09:08.22,0:09:15.07,Default,SPOOKY,0,0,0,,(chuckles)
+Dialogue: 0,0:09:15.07,0:09:17.07,Default,SNOTTY,0,0,0,,(annoyed) (grunting) Aaaah, we’ll never make it!
+Dialogue: 0,0:09:17.07,0:09:19.07,Default,GNOME,0,0,0,,The crown is too far away!
+Dialogue: 0,0:09:19.07,0:09:20.17,Default,GNOME 2,0,0,0,,We should have asked the pig for help!
+Dialogue: 0,0:09:20.17,0:09:24.20,Default,SNOTTY,0,0,0,,(proud, angry) Never! (determined) There’s still time, toss me towards that unicorn!
+Dialogue: 0,0:09:24.20,0:09:28.24,Default,GRUNT,0,0,0,,(shouting) STOP EVERYTHING!!!.. (pants) (defiant) Get out of the way, you mouldy piles of bandages! (effort grunt) (shouting, calling out) SPOOKY, DON’T PUT ON THE CROWN! (calling out) (shouting) Jane! Cherry! Help meeeee!!! (realizes) But where are you?
+Dialogue: 0,0:09:28.24,0:09:38.20,Default,MUMMY,0,0,0,,(grunt) (30) (grunts) (35) (whistles) / (surprised moan) / (effort moans)
+Dialogue: 0,0:09:38.20,0:09:41.17,Default,CHERRY,0,0,0,,(letting him know) Look, you missed a spot over there / (pleased moan)
+Dialogue: 0,0:09:41.17,0:09:42.07,Default,JANE,0,0,0,,(surprised moan)
+Dialogue: 0,0:09:42.07,0:09:44.06,Default,CROWD,0,0,0,,(cheers)
+Dialogue: 0,0:09:44.06,0:09:46.11,Default,SNOTTY,0,0,0,,(hyped) To the unicorn… (shouting) and beyond! / (painful grunt) (gives in) Fine. (Shouts, calling out) Hey piggy! (defiant) I bet you can’t hit a unicorn with a gnome!
+Dialogue: 0,0:09:46.11,0:09:46.11,Default,GNOME 2,0,0,0,,(effort grunt) // (grunts) / (grunts)
+Dialogue: 0,0:09:46.11,0:09:46.11,Default,GNOME 1,0,0,0,,(effort grunt) // (grunts) / (grunts)
+Dialogue: 0,0:09:46.11,0:09:49.00,Default,GNOME,0,0,0,,(effort grunt) // (grunts) / (grunts)
+Dialogue: 0,0:09:49.00,0:09:49.10,Default,MUMMY,0,0,0,,(REACTIONS) (56) (REACTION)
+Dialogue: 0,0:09:49.10,0:09:59.07,Default,GRUNT,0,0,0,,(grunts) (confused groan) / (defiant) (rises to the challenge) Oh yeeaah?! (effort grunt) (effort grunt)
+Dialogue: 0,0:09:59.07,0:09:59.18,Default,CHERRY,0,0,0,,(slow-motion voice) Noooooooooo!
+Dialogue: 0,0:09:59.18,0:10:01.23,Default,JANE,0,0,0,,(panic moans)
+Dialogue: 0,0:10:01.23,0:10:03.10,Default,SNOTTY,0,0,0,,(painful grunt)
+Dialogue: 0,0:10:03.10,0:10:04.08,Default,JANE,0,0,0,,(relieved) Just in time!
+Dialogue: 0,0:10:04.08,0:10:06.10,Default,SNOTTY,0,0,0,,(with effort) Hey, would someone let me loose?
+Dialogue: 0,0:10:06.10,0:10:08.23,Default,GRUNT,0,0,0,,(sarcastic) Look who it is, the one who lost the bet…
+Dialogue: 0,0:10:08.23,0:10:10.05,Default,CHERRY,0,0,0,,(worried, warning) You have no idea the danger of the danger you were in! If you’d put on that crown you would have turned to-
+Dialogue: 0,0:10:10.05,0:10:13.01,Default,SPOOKY,0,0,0,,(confused moan)
+Dialogue: 0,0:10:13.01,0:10:27.11,Default,SPOOKY,0,0,0,,(not at all surprised) Stone, obviously! Cleopatra broke into the garden gnomes’ cave and stole the crown of their king! (with emphasis) Then she created the fake ancient scroll to get me crowned knowing full well that whoever wore the king of the garden gnomes’ crown would turn into, stone like them!
+Dialogue: 0,0:10:27.11,0:10:29.24,Default,SNOTTY,0,0,0,,And we would never have accepted (with emphasis) you as our king!
+Dialogue: 0,0:10:29.24,0:10:31.14,Default,CHERRY,0,0,0,,(astonished) But how did you figure it out?
+Dialogue: 0,0:10:31.14,0:10:33.24,Default,SPOOKY,0,0,0,,Every self-respecting king has his informants, (sweetly) isn’t that right, my little Royal Beetle? / Well then I’ll name you my Royal Bug instead!
+Dialogue: 0,0:10:33.24,0:10:35.21,Default,ALARM COCKROACH,0,0,0,,(soft moan)
+Dialogue: 0,0:10:35.21,0:10:38.12,Default,GRUNT,0,0,0,,(correcting him) That’s a cockroach!
+Dialogue: 0,0:10:38.12,0:10:41.11,Default,CHERRY,0,0,0,,(confused) But if you already knew everything, then why did you want to wear the crown?
+Dialogue: 0,0:10:41.11,0:10:45.15,Default,SPOOKY,0,0,0,,(elated) “when else would I get the opportunity to turn into stone?” I would have been a super-hero, like (with emphasis) “Rock Man”!
+Dialogue: 0,0:10:45.15,0:10:48.20,Default,CHERRY,0,0,0,,(surprised moan) / (thinking) (confused) Mmm.
+Dialogue: 0,0:10:48.20,0:10:51.12,Default,SNOTTY,0,0,0,,(annoyed) Are you sure it was right to save him from turning to stone?
+Dialogue: 0,0:10:51.12,0:10:54.06,Default,SPOOKY,0,0,0,,(moved) And who saved me in the end? You did! Thanks friend!
+Dialogue: 0,0:10:54.06,0:10:57.03,Default,SNOTTY,0,0,0,,(gruff) (scolding) Silence, wolf! No non-gnome will ever be our king!
+Dialogue: 0,0:10:57.03,0:11:00.12,Default,SPOOKY,0,0,0,,No non-gnome will be king, huh? (defiant) You sure sure???
+Dialogue: 0,0:11:00.12,0:11:02.15,Default,GNOME,0,0,0,,(chanting) Long live our king! Long live our king!
+Dialogue: 0,0:11:02.15,0:11:02.15,Default,GNOME 2,0,0,0,,(chanting) Long live our king! Long live our king!
+Dialogue: 0,0:11:02.15,0:11:02.15,Default,SNOTTY,0,0,0,,He’s a great king!!! Hail to the King!
